@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<filename>GR_LineHelp_dlc01.fmg</filename>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="110601">初めて入手したアイテムのアイコン表示を設定します</text>
+<text id="110602">%null%</text>
+<text id="110603">インベントリメニューの「最近入手したアイテム」タブの表示を設定します</text>
+<text id="111024">地図メニューの、カーソル移動の操作方法を選択します</text>
+<text id="111025">マウスによる固定ターゲット変更操作を行う、しきい値を設定します</text>
+<text id="225001">我がものとする、ベールの力を選択してください</text>
+<text id="241501">マルチプレイ状況の表示を設定します</text>
+<text id="241502">サイン溜まりの一覧を表示し、有効／無効を個別に設定します</text>
+<text id="241503">キーガイド一覧を表示します</text>
+<text id="241504">地図メニューの説明を表示します</text>
+<text id="241600">有効／無効を設定するサイン溜まりを選択してください</text>
+<text id="280600">地図メニューを表示します</text>
+</entries>
+</fmg>

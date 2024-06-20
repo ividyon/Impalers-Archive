@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<filename>GR_LineHelp_dlc01.fmg</filename>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="110601">Choose whether or not to mark new items with an icon</text>
+<text id="110602">%null%</text>
+<text id="110603">Display/hide the Recent Items tab in the inventory menu</text>
+<text id="111024">Configure cursor movement on the map menu</text>
+<text id="111025">Change value of the mouse sensitivity when changing targets</text>
+<text id="225001">Choose an ability of Bayle's to make thine own</text>
+<text id="241501">Configure multiplayer status display</text>
+<text id="241502">View summoning pool list and enable or disable pools</text>
+<text id="241503">View list of controls</text>
+<text id="241504">View explanation of the map menu</text>
+<text id="241600">Select summoning pools to enable/disable</text>
+<text id="280600">Display the map menu</text>
+</entries>
+</fmg>

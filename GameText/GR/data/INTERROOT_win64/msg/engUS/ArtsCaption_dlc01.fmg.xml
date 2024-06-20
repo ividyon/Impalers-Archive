@@ -1,0 +1,905 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<filename>ArtsCaption_dlc01.fmg</filename>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="2000">Skill: Dryleaf Whirlwind
+
+This skill represents the pinnacle of Dane's footwork-based martial artistry.
+Rise into the air with a series of spinning kicks before crashing down with one final strike. Imbues kicking attacks with energy, increasing their range.</text>
+<text id="2001">Skill: Aspects of the Crucible: Wings
+
+This skill originates from the lifeforms of the Crucible.
+Grow a golden pair of wings and take to the air before diving down at the foe, weapon first. A spinning attack is performed when wielding a twinblade.</text>
+<text id="4000">Skill: Spinning Gravity Thrust
+
+A gravity skill honed by the disciples of an Alabaster Lord. Uses gravitational power to hang in the air before rotating the body and charging forward. An additional input allows for a follow-up attack.</text>
+<text id="4001">%null%</text>
+<text id="4002">%null%</text>
+<text id="4003">%null%</text>
+<text id="4004">%null%</text>
+<text id="4005">%null%</text>
+<text id="4006">%null%</text>
+<text id="4007">%null%</text>
+<text id="4008">%null%</text>
+<text id="4009">%null%</text>
+<text id="4010">Skill: Palm Blast
+
+Skill of the spiritual seekers known as the Dryleaf Sect. Imbues hand with energy before using a palm strike to unleash an explosive blast. The already formidable power and impact can be bolstered by charging the attack.</text>
+<text id="4011">%null%</text>
+<text id="4012">%null%</text>
+<text id="4013">%null%</text>
+<text id="4014">%null%</text>
+<text id="4015">%null%</text>
+<text id="4016">%null%</text>
+<text id="4017">%null%</text>
+<text id="4018">%null%</text>
+<text id="4019">%null%</text>
+<text id="4020">Skill: Piercing Throw
+
+Throw armament with a powerful spin, causing it to bore through foes. When using this skill, the armament can be thrown further than normal and also pierce through enemies.</text>
+<text id="4021">%null%</text>
+<text id="4022">%null%</text>
+<text id="4023">%null%</text>
+<text id="4024">%null%</text>
+<text id="4025">%null%</text>
+<text id="4026">%null%</text>
+<text id="4027">%null%</text>
+<text id="4028">%null%</text>
+<text id="4029">%null%</text>
+<text id="4030">Skill: Scattershot Throw
+
+Employ smithing arts to conjure multiple copies of the armament in both hands and throw them all at once. Follow up with an additional input to throw again.</text>
+<text id="4031">%null%</text>
+<text id="4032">%null%</text>
+<text id="4033">%null%</text>
+<text id="4034">%null%</text>
+<text id="4035">%null%</text>
+<text id="4036">%null%</text>
+<text id="4037">%null%</text>
+<text id="4038">%null%</text>
+<text id="4039">%null%</text>
+<text id="4040">Skill: Wall of Sparks
+
+Scatter perfumed powder in vicinity, producing intense sparks after a brief delay. Can be charged to increase power and range.
+The properties of the sparks are determined by the perfume bottle used.</text>
+<text id="4041">%null%</text>
+<text id="4042">%null%</text>
+<text id="4043">%null%</text>
+<text id="4044">%null%</text>
+<text id="4045">%null%</text>
+<text id="4046">%null%</text>
+<text id="4047">%null%</text>
+<text id="4048">%null%</text>
+<text id="4049">%null%</text>
+<text id="4050">Skill: Rolling Sparks
+
+Scatter perfumed powder before you, triggering rolling explosions of deadly sparks.
+The properties of the sparks are determined by the perfume bottle used.</text>
+<text id="4051">%null%</text>
+<text id="4052">%null%</text>
+<text id="4053">%null%</text>
+<text id="4054">%null%</text>
+<text id="4055">%null%</text>
+<text id="4056">%null%</text>
+<text id="4057">%null%</text>
+<text id="4058">%null%</text>
+<text id="4059">%null%</text>
+<text id="4060">Skill: Raging Beast
+
+Step with the swiftness of a beast, leap high, and slash foe from above. Initial step can be taken forward, backward, left, or right. Strong attack allows for a follow-up attack.</text>
+<text id="4061">%null%</text>
+<text id="4062">%null%</text>
+<text id="4063">%null%</text>
+<text id="4064">%null%</text>
+<text id="4065">%null%</text>
+<text id="4066">%null%</text>
+<text id="4067">%null%</text>
+<text id="4068">%null%</text>
+<text id="4069">%null%</text>
+<text id="4070">Skill: Savage Claws
+
+Pounce like a beast to viciously slash into foe with left and right claws.</text>
+<text id="4071">%null%</text>
+<text id="4072">%null%</text>
+<text id="4073">%null%</text>
+<text id="4074">%null%</text>
+<text id="4075">%null%</text>
+<text id="4076">%null%</text>
+<text id="4077">%null%</text>
+<text id="4078">%null%</text>
+<text id="4079">%null%</text>
+<text id="4080">Unique Skill: Red Bear Hunt
+
+Slaughters prey with sharp claws in a great swipe of the arm. The attack creates a vacuum which deals continuous damage. Repeated inputs allow for up to two follow-up attacks.</text>
+<text id="4081">%null%</text>
+<text id="4082">%null%</text>
+<text id="4083">%null%</text>
+<text id="4084">%null%</text>
+<text id="4085">%null%</text>
+<text id="4086">%null%</text>
+<text id="4087">%null%</text>
+<text id="4088">%null%</text>
+<text id="4089">%null%</text>
+<text id="4090">Skill: Blind Spot
+
+Leap into close quarters to take advantage of the enemy's blind spot and gore them from the side. Inputs determine which side you strike from. This attack slips below the opponent's guard.</text>
+<text id="4091">%null%</text>
+<text id="4092">%null%</text>
+<text id="4093">%null%</text>
+<text id="4094">%null%</text>
+<text id="4095">%null%</text>
+<text id="4096">%null%</text>
+<text id="4097">%null%</text>
+<text id="4098">%null%</text>
+<text id="4099">%null%</text>
+<text id="4100">Skill: Swift Slash
+
+A skill passed down amongst hornsent swordsmen. Take a swift forward step to slice through foes. This sharp strike also fires off a shearing vacuum. Can be charged to increase the skill's power and the distance of the forward step.</text>
+<text id="4101">%null%</text>
+<text id="4102">%null%</text>
+<text id="4103">%null%</text>
+<text id="4104">%null%</text>
+<text id="4105">%null%</text>
+<text id="4106">%null%</text>
+<text id="4107">%null%</text>
+<text id="4108">%null%</text>
+<text id="4109">%null%</text>
+<text id="4110">Skill: Overhead Stance
+
+A skill that starts with the blade held high in a ready stance.
+Execute a normal attack from this stance to step forward and slash downwards, or a strong attack to deliver a series of downward slashes.</text>
+<text id="4111">%null%</text>
+<text id="4112">%null%</text>
+<text id="4113">%null%</text>
+<text id="4114">%null%</text>
+<text id="4115">%null%</text>
+<text id="4116">%null%</text>
+<text id="4117">%null%</text>
+<text id="4118">%null%</text>
+<text id="4119">%null%</text>
+<text id="4120">Skill: Wing Stance
+
+Calmly assume a right-sided stance. Normal attack triggers a rapid three-slash combination. Strong attack triggers a leaping thrust.</text>
+<text id="4121">%null%</text>
+<text id="4122">%null%</text>
+<text id="4123">%null%</text>
+<text id="4124">%null%</text>
+<text id="4125">%null%</text>
+<text id="4126">%null%</text>
+<text id="4127">%null%</text>
+<text id="4128">%null%</text>
+<text id="4129">%null%</text>
+<text id="4130">Skill: Blinkbolt
+
+Skill used by the golden knights who served Godwyn. From a low stance, the body is transformed into a bolt of lightning and charges straight ahead at fulgurous speed.</text>
+<text id="4131">%null%</text>
+<text id="4132">%null%</text>
+<text id="4133">%null%</text>
+<text id="4134">%null%</text>
+<text id="4135">%null%</text>
+<text id="4136">%null%</text>
+<text id="4137">%null%</text>
+<text id="4138">%null%</text>
+<text id="4139">%null%</text>
+<text id="4140">Skill: Flame Skewer
+
+Skill of Queelign of the Fire Knights. Enwreathe armament in flame and assume a low stance before skewering the enemy in a single motion. Strong attack unleashes a follow-up flame attack.</text>
+<text id="4141">%null%</text>
+<text id="4142">%null%</text>
+<text id="4143">%null%</text>
+<text id="4144">%null%</text>
+<text id="4145">%null%</text>
+<text id="4146">%null%</text>
+<text id="4147">%null%</text>
+<text id="4148">%null%</text>
+<text id="4149">%null%</text>
+<text id="4150">Skill: Savage Lion's Claw
+
+Skill of the particularly brave, even among the Redmanes. Somersault forwards, striking foes with armament. An additional strike may be performed with an additional input.</text>
+<text id="4151">%null%</text>
+<text id="4152">%null%</text>
+<text id="4153">%null%</text>
+<text id="4154">%null%</text>
+<text id="4155">%null%</text>
+<text id="4156">%null%</text>
+<text id="4157">%null%</text>
+<text id="4158">%null%</text>
+<text id="4159">%null%</text>
+<text id="4160">Skill: Divine Beast Frost Stomp
+
+A skill which imitates the wrath of the divine beast's dance. Lift a leg up high and stamp it down with great force. Sends a powerful wave of frost straight out along the ground. Can be charged to increase power and range.</text>
+<text id="4161">%null%</text>
+<text id="4162">%null%</text>
+<text id="4163">%null%</text>
+<text id="4164">%null%</text>
+<text id="4165">%null%</text>
+<text id="4166">%null%</text>
+<text id="4167">%null%</text>
+<text id="4168">%null%</text>
+<text id="4169">%null%</text>
+<text id="4170">Skill: Flame Spear
+
+Skill of Kood, captain of the Fire Knights.
+Ready weapon for a thrusting attack and unleash a spear of flame straight ahead. Charge the attack to increase damage dealt and distance travelled.</text>
+<text id="4171">%null%</text>
+<text id="4172">%null%</text>
+<text id="4173">%null%</text>
+<text id="4174">%null%</text>
+<text id="4175">%null%</text>
+<text id="4176">%null%</text>
+<text id="4177">%null%</text>
+<text id="4178">%null%</text>
+<text id="4179">%null%</text>
+<text id="4180">Skill: Carian Sovereignty
+
+Skill passed down the Carian royal family. Transform blade into a magical greatsword and bring it down. Additional input follows up with a horizontal sweep. Charge either attack to enhance potency.</text>
+<text id="4181">%null%</text>
+<text id="4182">%null%</text>
+<text id="4183">%null%</text>
+<text id="4184">%null%</text>
+<text id="4185">%null%</text>
+<text id="4186">%null%</text>
+<text id="4187">%null%</text>
+<text id="4188">%null%</text>
+<text id="4189">%null%</text>
+<text id="4190">Skill: Shriek of Sorrow
+
+Skill utilized by the downtrodden. Scream, causing nearby enemies to flinch, while also recalling deep-seated resentment, boosting attack power based on the amount of HP remaining. The lower the HP, the greater the effect.</text>
+<text id="4191">%null%</text>
+<text id="4192">%null%</text>
+<text id="4193">%null%</text>
+<text id="4194">%null%</text>
+<text id="4195">%null%</text>
+<text id="4196">%null%</text>
+<text id="4197">%null%</text>
+<text id="4198">%null%</text>
+<text id="4199">%null%</text>
+<text id="4200">Skill: Shield Strike
+
+A skill that uses the shield to attack.
+Repeated inputs allow for up to three follow-up attacks.</text>
+<text id="4201">%null%</text>
+<text id="4202">%null%</text>
+<text id="4203">%null%</text>
+<text id="4204">%null%</text>
+<text id="4205">%null%</text>
+<text id="4206">%null%</text>
+<text id="4207">%null%</text>
+<text id="4208">%null%</text>
+<text id="4209">%null%</text>
+<text id="4210">Skill: Igon's Drake Hunt
+
+Skill of Igon, drake warrior. Ready the bow before unleashing a twisted shot with a great bellow that considerably enhances its power.</text>
+<text id="4211">%null%</text>
+<text id="4212">%null%</text>
+<text id="4213">%null%</text>
+<text id="4214">%null%</text>
+<text id="4215">%null%</text>
+<text id="4216">%null%</text>
+<text id="4217">%null%</text>
+<text id="4218">%null%</text>
+<text id="4219">%null%</text>
+<text id="4220">Skill: Ghostflame Call
+
+Thrust out armament to summon ghostflame.
+Follow up with a normal attack to set the ground ablaze with ghostflame, or a strong attack to trigger a massive explosion.</text>
+<text id="5000">Unique Skill: Dragonwound Slash
+
+Designed to hunt colossal dragons, this skill cloaks the armament with a jagged gravel-stone aura before performing a high leaping slash. Charge the attack to also fire off the aura.</text>
+<text id="5001">%null%</text>
+<text id="5002">%null%</text>
+<text id="5003">%null%</text>
+<text id="5004">%null%</text>
+<text id="5005">%null%</text>
+<text id="5006">%null%</text>
+<text id="5007">%null%</text>
+<text id="5008">%null%</text>
+<text id="5009">%null%</text>
+<text id="5010">Unique Skill: Needle Piercer
+
+Skill of Needle Knight Leda. Generates ten gold needles which pierce their target all at once. Those pierced are purged of all ailments and special effects alike.</text>
+<text id="5011">%null%</text>
+<text id="5012">%null%</text>
+<text id="5013">%null%</text>
+<text id="5014">%null%</text>
+<text id="5015">%null%</text>
+<text id="5016">%null%</text>
+<text id="5017">%null%</text>
+<text id="5018">%null%</text>
+<text id="5019">%null%</text>
+<text id="5020">Unique Skill: Light
+
+Unleashes the light carved in the armament's blade. Send the sword aloft to let loose a blinding light whose many rays sweep through the surrounding area. Also temporarily boosts one's own holy attacks.</text>
+<text id="5021">%null%</text>
+<text id="5022">%null%</text>
+<text id="5023">%null%</text>
+<text id="5024">%null%</text>
+<text id="5025">%null%</text>
+<text id="5026">%null%</text>
+<text id="5027">%null%</text>
+<text id="5028">%null%</text>
+<text id="5029">%null%</text>
+<text id="5030">Unique Skill: Darkness
+
+Raise the sword aloft and cleave surroundings with darkness. Deals holy damage and temporarily reduces holy damage negation.</text>
+<text id="5031">%null%</text>
+<text id="5032">%null%</text>
+<text id="5033">%null%</text>
+<text id="5034">%null%</text>
+<text id="5035">%null%</text>
+<text id="5036">%null%</text>
+<text id="5037">%null%</text>
+<text id="5038">%null%</text>
+<text id="5039">%null%</text>
+<text id="5040">Unique Skill: Onze's Line of Stars
+
+This skill, named after a demi-human swordmaster, imbues sorcerous energy into lined glintstones and executes a slash attack. Repeated inputs allow for up to two follow-up attacks, each dealing greater damage than the last.</text>
+<text id="5041">%null%</text>
+<text id="5042">%null%</text>
+<text id="5043">%null%</text>
+<text id="5044">%null%</text>
+<text id="5045">%null%</text>
+<text id="5046">%null%</text>
+<text id="5047">%null%</text>
+<text id="5048">%null%</text>
+<text id="5049">%null%</text>
+<text id="5050">Skill: The Poison Flower Blooms Twice
+
+Conjures stingers of scarlet rot from below to stab the enemy. Landing a follow-up attack on a foe already inflicted with poison or rot deals massive damage in one fell swoop.</text>
+<text id="5080">Unique Skill: Spinning Guillotine
+
+Hold the putrid blade at both ends and arch body backwards to deliver a powerful overhead chop. Repeated inputs deliver follow-up attacks for as long as stamina allows. Strong attack performs a leap followed by a spinning attack.</text>
+<text id="5081">%null%</text>
+<text id="5082">%null%</text>
+<text id="5083">%null%</text>
+<text id="5084">%null%</text>
+<text id="5085">%null%</text>
+<text id="5086">%null%</text>
+<text id="5087">%null%</text>
+<text id="5088">%null%</text>
+<text id="5089">%null%</text>
+<text id="5090">Unique Skill: Unending Dance
+
+A furious dance formed by a succession of slashing attacks. Hold the button down to sustain the dance for as long as stamina allows.</text>
+<text id="5091">%null%</text>
+<text id="5092">%null%</text>
+<text id="5093">%null%</text>
+<text id="5094">%null%</text>
+<text id="5095">%null%</text>
+<text id="5096">%null%</text>
+<text id="5097">%null%</text>
+<text id="5098">%null%</text>
+<text id="5099">%null%</text>
+<text id="5100">Unique Skill: Revenger's Blade
+
+Dash up to an enemy and slash them open with the blades held in each hand. By holding down the button, the initial dash will be extended. Follow up with strong attack to hack the enemy to pieces.</text>
+<text id="5101">%null%</text>
+<text id="5102">%null%</text>
+<text id="5103">%null%</text>
+<text id="5104">%null%</text>
+<text id="5105">%null%</text>
+<text id="5106">%null%</text>
+<text id="5107">%null%</text>
+<text id="5108">%null%</text>
+<text id="5109">%null%</text>
+<text id="5110">Unique Skill: Mists of Eternal Sleep
+
+Releases a velvety purple mist that spreads across a wide frontal area. Afflicts foes with eternal sleep.</text>
+<text id="5111">%null%</text>
+<text id="5112">%null%</text>
+<text id="5113">%null%</text>
+<text id="5114">%null%</text>
+<text id="5115">%null%</text>
+<text id="5116">%null%</text>
+<text id="5117">%null%</text>
+<text id="5118">%null%</text>
+<text id="5119">%null%</text>
+<text id="5120">Unique Skill: Dynastic Sickleplay
+
+A finessed evasive skill that creates space to maneuver. Inputs dictate direction of the backstep. Follow up with strong attack to perform an advancing upward slash. Press strong attack again to bring the weapon back down.</text>
+<text id="5121">%null%</text>
+<text id="5122">%null%</text>
+<text id="5123">%null%</text>
+<text id="5124">%null%</text>
+<text id="5125">%null%</text>
+<text id="5126">%null%</text>
+<text id="5127">%null%</text>
+<text id="5128">%null%</text>
+<text id="5129">%null%</text>
+<text id="5130">Unique Skill: Blinkbolt: Twinaxe
+
+From a low stance, the body is transformed into a bolt of lightning and charges straight ahead at fulgurous speed. Strong attack performs a lightning-charged spinning slash.</text>
+<text id="5131">%null%</text>
+<text id="5132">%null%</text>
+<text id="5133">%null%</text>
+<text id="5134">%null%</text>
+<text id="5135">%null%</text>
+<text id="5136">%null%</text>
+<text id="5137">%null%</text>
+<text id="5138">%null%</text>
+<text id="5139">%null%</text>
+<text id="5140">Unique Skill: Blinkbolt: Long-hafted Axe
+
+From a low stance, the body is transformed into a bolt of lightning and charges straight ahead at fulgurous speed. Strong attack performs a lightning-charged leaping slash.</text>
+<text id="5141">%null%</text>
+<text id="5142">%null%</text>
+<text id="5143">%null%</text>
+<text id="5144">%null%</text>
+<text id="5145">%null%</text>
+<text id="5146">%null%</text>
+<text id="5147">%null%</text>
+<text id="5148">%null%</text>
+<text id="5149">%null%</text>
+<text id="5150">Unique Skill: Promised Consort
+
+Imbue the two greatswords with the light of Miquella, then deliver a slashing attack accompanied by columns of light. Additional input allows for up to two follow-up attacks.</text>
+<text id="5151">%null%</text>
+<text id="5152">%null%</text>
+<text id="5153">%null%</text>
+<text id="5154">%null%</text>
+<text id="5155">%null%</text>
+<text id="5156">%null%</text>
+<text id="5157">%null%</text>
+<text id="5158">%null%</text>
+<text id="5159">%null%</text>
+<text id="5160">Unique Skill: Shadow Sunflower Headbutt
+
+Slam down the blossom of a large shadow sunflower, sending out a shockwave that flattens foes. Repeated inputs allow for up to two follow-up attacks.</text>
+<text id="5161">%null%</text>
+<text id="5162">%null%</text>
+<text id="5163">%null%</text>
+<text id="5164">%null%</text>
+<text id="5165">%null%</text>
+<text id="5166">%null%</text>
+<text id="5167">%null%</text>
+<text id="5168">%null%</text>
+<text id="5169">%null%</text>
+<text id="5170">Unique Skill: Moon-and-Fire Stance
+
+Assume ready stance, swords imbued with magic. Follow up with normal attack to cast glintstone light waves, or strong attack to perform a spinning attack that bathes the area with flame. Light waves can have up to two follow-up casts with additional inputs.</text>
+<text id="5171">%null%</text>
+<text id="5172">%null%</text>
+<text id="5173">%null%</text>
+<text id="5174">%null%</text>
+<text id="5175">%null%</text>
+<text id="5176">%null%</text>
+<text id="5177">%null%</text>
+<text id="5178">%null%</text>
+<text id="5179">%null%</text>
+<text id="5180">Unique Skill: Devonia's Vortex
+
+Using the power of the Crucible vortex, violently spin the hammer around and slam the ground, causing a shockwave. This skill can be charged to increase its power.</text>
+<text id="5181">%null%</text>
+<text id="5182">%null%</text>
+<text id="5183">%null%</text>
+<text id="5184">%null%</text>
+<text id="5185">%null%</text>
+<text id="5186">%null%</text>
+<text id="5187">%null%</text>
+<text id="5188">%null%</text>
+<text id="5189">%null%</text>
+<text id="5190">Unique Skill: Messmer's Assault
+
+A fierce succession of attacks using a flame-coated spear tip. Repeated inputs allow up to two follow-up attacks. The final move thrusts the spear into the ground, causing countless spears to form in the surrounding area.</text>
+<text id="5210">Unique Skill: Sleep Evermore
+
+Pierces the enemy deeply with a poison-coated needle that delivers eternal sleep. If the follow-up strike lands upon a foe who is already in a state of slumber or eternal sleep, it will deal significant damage.</text>
+<text id="5211">%null%</text>
+<text id="5212">%null%</text>
+<text id="5213">%null%</text>
+<text id="5214">%null%</text>
+<text id="5215">%null%</text>
+<text id="5216">%null%</text>
+<text id="5217">%null%</text>
+<text id="5218">%null%</text>
+<text id="5219">%null%</text>
+<text id="5220">Unique Skill: Golden Crux
+
+Leap up and skewer foe from overhead. If successful, the weapon's barbs unfold to excruciate from within; else, additional input releases barbs in the area. There is something of the Golden Order in the sight of those fixed upon this crux.</text>
+<text id="5221">%null%</text>
+<text id="5222">%null%</text>
+<text id="5223">%null%</text>
+<text id="5224">%null%</text>
+<text id="5225">%null%</text>
+<text id="5226">%null%</text>
+<text id="5227">%null%</text>
+<text id="5228">%null%</text>
+<text id="5229">%null%</text>
+<text id="5230">Unique Skill: Moore's Charge
+
+Ready the shield with both hands, then charge forth while maintaining guard, ending in a shove imbued with verdigris magic. Knocks back nearby enemies, but does not cause significant harm. Hold to extend the length of the charge.</text>
+<text id="5231">%null%</text>
+<text id="5232">%null%</text>
+<text id="5233">%null%</text>
+<text id="5234">%null%</text>
+<text id="5235">%null%</text>
+<text id="5236">%null%</text>
+<text id="5237">%null%</text>
+<text id="5238">%null%</text>
+<text id="5239">%null%</text>
+<text id="5240">Unique Skill: White Light Charge
+
+Summons white light from the crevice in the weapon's ancient meteoric ore, using its power for a charging attack which pierces foes. Additional input causes the light to explode.</text>
+<text id="5241">%null%</text>
+<text id="5242">%null%</text>
+<text id="5243">%null%</text>
+<text id="5244">%null%</text>
+<text id="5245">%null%</text>
+<text id="5246">%null%</text>
+<text id="5247">%null%</text>
+<text id="5248">%null%</text>
+<text id="5249">%null%</text>
+<text id="5250">Unique Skill: Rancor Slash
+
+Spin around, slashing foes while summoning vengeful spirits which chase down foes. Additional input allows for a follow-up attack.</text>
+<text id="5251">%null%</text>
+<text id="5252">%null%</text>
+<text id="5253">%null%</text>
+<text id="5254">%null%</text>
+<text id="5255">%null%</text>
+<text id="5256">%null%</text>
+<text id="5257">%null%</text>
+<text id="5258">%null%</text>
+<text id="5259">%null%</text>
+<text id="5260">Unique Skill: Witching Hour Slash
+
+Hold the sword level and infuse it with the dark of Night before unleashing a series of incorporeal attacks. This attack cannot be blocked. Can be charged to increase its power.</text>
+<text id="5261">%null%</text>
+<text id="5262">%null%</text>
+<text id="5263">%null%</text>
+<text id="5264">%null%</text>
+<text id="5265">%null%</text>
+<text id="5266">%null%</text>
+<text id="5267">%null%</text>
+<text id="5268">%null%</text>
+<text id="5269">%null%</text>
+<text id="5270">Unique Skill: Euporia Vortex
+
+Using the power of the vortex, violently twirl the armament, dealing multiple slashes directly ahead. The greater the restored luster of the blades, the greater the power of this skill. However, use of this skill will fully consume the blades' luster.</text>
+<text id="5271">%null%</text>
+<text id="5272">%null%</text>
+<text id="5273">%null%</text>
+<text id="5274">%null%</text>
+<text id="5275">%null%</text>
+<text id="5276">%null%</text>
+<text id="5277">%null%</text>
+<text id="5278">%null%</text>
+<text id="5279">%null%</text>
+<text id="5280">Unique Skill: Smithing Art Spears
+
+Slam the red-hot anvil into the ground, sending up countless spears as it is pulled out. The spears disappear instantly.</text>
+<text id="5281">%null%</text>
+<text id="5282">%null%</text>
+<text id="5283">%null%</text>
+<text id="5284">%null%</text>
+<text id="5285">%null%</text>
+<text id="5286">%null%</text>
+<text id="5287">%null%</text>
+<text id="5288">%null%</text>
+<text id="5289">%null%</text>
+<text id="5290">Unique Skill: Rancor Slash
+
+Spin around, slashing foes while summoning vengeful spirits which chase down foes. Additional input allows for a follow-up attack.</text>
+<text id="5291">%null%</text>
+<text id="5292">%null%</text>
+<text id="5293">%null%</text>
+<text id="5294">%null%</text>
+<text id="5295">%null%</text>
+<text id="5296">%null%</text>
+<text id="5297">%null%</text>
+<text id="5298">%null%</text>
+<text id="5299">%null%</text>
+<text id="5300">Unique Skill: Romina's Purification
+
+Imbues bud-blade with scarlet rot butterflies before unleashing two large sweeping slashes. This was once considered a sacred act of purification.</text>
+<text id="5301">%null%</text>
+<text id="5302">%null%</text>
+<text id="5303">%null%</text>
+<text id="5304">%null%</text>
+<text id="5305">%null%</text>
+<text id="5306">%null%</text>
+<text id="5307">%null%</text>
+<text id="5308">%null%</text>
+<text id="5309">%null%</text>
+<text id="5310">Unique Skill: Poison Spear-Hand Strike
+
+Makes hand into the shape of a spear before unleashing a plunging stab that penetrates the body of the enemy. Afflicts foe with a large dose of deadly poison.</text>
+<text id="5311">%null%</text>
+<text id="5312">%null%</text>
+<text id="5313">%null%</text>
+<text id="5314">%null%</text>
+<text id="5315">%null%</text>
+<text id="5316">%null%</text>
+<text id="5317">%null%</text>
+<text id="5318">%null%</text>
+<text id="5319">%null%</text>
+<text id="5320">Unique Skill: Madding Spear-Hand Strike
+
+Makes hand into the shape of a spear before unleashing a plunging stab that penetrates the body of the enemy. Afflicts foe with a large dose of madness.</text>
+<text id="5321">%null%</text>
+<text id="5322">%null%</text>
+<text id="5323">%null%</text>
+<text id="5324">%null%</text>
+<text id="5325">%null%</text>
+<text id="5326">%null%</text>
+<text id="5327">%null%</text>
+<text id="5328">%null%</text>
+<text id="5329">%null%</text>
+<text id="5330">Unique Skill: Feeble Lord's Frenzied Flame
+
+Hold torch out in front and spit out frenzied flame. Afflicts those caught in its area of effect with madness, along with the user themselves. The skill will continue for as long as the button is held down. Can be used while moving.</text>
+<text id="5331">%null%</text>
+<text id="5332">%null%</text>
+<text id="5333">%null%</text>
+<text id="5334">%null%</text>
+<text id="5335">%null%</text>
+<text id="5336">%null%</text>
+<text id="5337">%null%</text>
+<text id="5338">%null%</text>
+<text id="5339">%null%</text>
+<text id="5340">Unique Skill: Repeating Fire
+
+This skill readies the weapon's rapid-fire mechanism. Once in ready stance, crank the handle to fire bolts in rapid succession.</text>
+<text id="5341">%null%</text>
+<text id="5342">%null%</text>
+<text id="5343">%null%</text>
+<text id="5344">%null%</text>
+<text id="5345">%null%</text>
+<text id="5346">%null%</text>
+<text id="5347">%null%</text>
+<text id="5348">%null%</text>
+<text id="5349">%null%</text>
+<text id="5350">Unique Skill: Deadly Dance
+
+An aggressive spinning skill that tears into foes using the circular blades held in each hand. Additional input allows for a sharp axe-kick follow-up.</text>
+<text id="5351">%null%</text>
+<text id="5352">%null%</text>
+<text id="5353">%null%</text>
+<text id="5354">%null%</text>
+<text id="5355">%null%</text>
+<text id="5356">%null%</text>
+<text id="5357">%null%</text>
+<text id="5358">%null%</text>
+<text id="5359">%null%</text>
+<text id="5360">Unique Skill: Fan Shot
+
+This skill uses the bow held horizontally. Readies eight arrows at once, firing them in a fan-shaped arc.</text>
+<text id="5361">%null%</text>
+<text id="5362">%null%</text>
+<text id="5363">%null%</text>
+<text id="5364">%null%</text>
+<text id="5365">%null%</text>
+<text id="5366">%null%</text>
+<text id="5367">%null%</text>
+<text id="5368">%null%</text>
+<text id="5369">%null%</text>
+<text id="5370">Unique Skill: Discus Hurl
+
+Throws the roundshield like a discus. Once thrown, the shield will be instantly restored to the wielder's hand through the smithing arts.</text>
+<text id="5371">%null%</text>
+<text id="5372">%null%</text>
+<text id="5373">%null%</text>
+<text id="5374">%null%</text>
+<text id="5375">%null%</text>
+<text id="5376">%null%</text>
+<text id="5377">%null%</text>
+<text id="5378">%null%</text>
+<text id="5379">%null%</text>
+<text id="5380">Unique Skill: Flower Dragonbolt
+
+Calls down the red lightning of the ancient dragons to strike a target. Deals lightning damage and also temporarily reduces the target's lightning damage negation. Can be charged to increase its power.</text>
+<text id="5381">%null%</text>
+<text id="5382">%null%</text>
+<text id="5383">%null%</text>
+<text id="5384">%null%</text>
+<text id="5385">%null%</text>
+<text id="5386">%null%</text>
+<text id="5387">%null%</text>
+<text id="5388">%null%</text>
+<text id="5389">%null%</text>
+<text id="5390">Unique Skill: Kowtower's Resentment
+
+Skill performed as a violent bow using a finger's foremost protrusion. Resentment builds as it is forced to bow, making it explode with anger. Hold button down to further increase resentment. </text>
+<text id="5420">Unique Skill: Painful Strike
+
+A chastening whip strike, honed to maximize pain. Temporarily reduces the rate at which stamina recovers. Thus does the pain encourage obedience.</text>
+<text id="5421">%null%</text>
+<text id="5422">%null%</text>
+<text id="5423">%null%</text>
+<text id="5424">%null%</text>
+<text id="5425">%null%</text>
+<text id="5426">%null%</text>
+<text id="5427">%null%</text>
+<text id="5428">%null%</text>
+<text id="5429">%null%</text>
+<text id="5430">Unique Skill: Solitary Moon Slash
+
+Sharply slash downward using the greatsword, shooting forward an arc of light. Strong attack allows for an advancing follow-up.</text>
+<text id="5431">%null%</text>
+<text id="5432">%null%</text>
+<text id="5433">%null%</text>
+<text id="5434">%null%</text>
+<text id="5435">%null%</text>
+<text id="5436">%null%</text>
+<text id="5437">%null%</text>
+<text id="5438">%null%</text>
+<text id="5439">%null%</text>
+<text id="5440">Unique Skill: Revenge of the Night
+
+Unleashes the dark of Night imbued with magic power. If used immediately after blocking an incoming attack, its power is absorbed, bolstering the strength of this skill.</text>
+<text id="5441">%null%</text>
+<text id="5442">%null%</text>
+<text id="5443">%null%</text>
+<text id="5444">%null%</text>
+<text id="5445">%null%</text>
+<text id="5446">%null%</text>
+<text id="5447">%null%</text>
+<text id="5448">%null%</text>
+<text id="5449">%null%</text>
+<text id="5450">Unique Skill: Weed Cutter
+
+Performs scythe-like horizontal swings with the sword, cutting men down as if they were weeds. Additional inputs allow for the continuation of the attack for as long as stamina remains.</text>
+<text id="5451">%null%</text>
+<text id="5452">%null%</text>
+<text id="5453">%null%</text>
+<text id="5454">%null%</text>
+<text id="5455">%null%</text>
+<text id="5456">%null%</text>
+<text id="5457">%null%</text>
+<text id="5458">%null%</text>
+<text id="5459">%null%</text>
+<text id="5460">Unique Skill: Blindfold of Happiness
+
+Swing the head while covering the eyes, unleashing a wail of lamentation while temporarily making the user of this skill harder to see. To those who seek happiness, blindness is bliss.</text>
+<text id="5461">%null%</text>
+<text id="5462">%null%</text>
+<text id="5463">%null%</text>
+<text id="5464">%null%</text>
+<text id="5465">%null%</text>
+<text id="5466">%null%</text>
+<text id="5467">%null%</text>
+<text id="5468">%null%</text>
+<text id="5469">%null%</text>
+<text id="5470">Unique Skill: Jori's Inquisition
+
+Thrust the greatstaff into the air, firing off a succession of golden barb-like arcs. Holding the button down extends the barrage for a short duration.</text>
+<text id="5471">%null%</text>
+<text id="5472">%null%</text>
+<text id="5473">%null%</text>
+<text id="5474">%null%</text>
+<text id="5475">%null%</text>
+<text id="5476">%null%</text>
+<text id="5477">%null%</text>
+<text id="5478">%null%</text>
+<text id="5479">%null%</text>
+<text id="5480">Unique Skill: Roaring Bash
+
+Roar like a golden lion and deliver a shield bash from a guarding position. Knocks back and staggers foes over a wide radius.</text>
+<text id="5481">%null%</text>
+<text id="5482">%null%</text>
+<text id="5483">%null%</text>
+<text id="5484">%null%</text>
+<text id="5485">%null%</text>
+<text id="5486">%null%</text>
+<text id="5487">%null%</text>
+<text id="5488">%null%</text>
+<text id="5489">%null%</text>
+<text id="5490">Unique Skill: Deadly Poison Spray
+
+Swings the perfume bottle overhead, wafting perfumed powder of deadly poison over a wide area. Poison shall dance upon the air and pour down in quiet calm.</text>
+<text id="5491">%null%</text>
+<text id="5492">%null%</text>
+<text id="5493">%null%</text>
+<text id="5494">%null%</text>
+<text id="5495">%null%</text>
+<text id="5496">%null%</text>
+<text id="5497">%null%</text>
+<text id="5498">%null%</text>
+<text id="5499">%null%</text>
+<text id="5500">Unique Skill: Flare, O Serpent
+
+Ignites a flame inside the snakes, temporarily empowering flame attacks. Once ignited, strong attacks and other moves that strike the ground will cause an explosion.</text>
+<text id="5501">%null%</text>
+<text id="5502">%null%</text>
+<text id="5503">%null%</text>
+<text id="5504">%null%</text>
+<text id="5505">%null%</text>
+<text id="5506">%null%</text>
+<text id="5507">%null%</text>
+<text id="5508">%null%</text>
+<text id="5509">%null%</text>
+<text id="5510">Unique Skill: Scattershot (Claws)
+
+Employ smithing arts to conjure multiple copies of the claws in both hands and throw them all at once. Follow up with an additional input to throw again.</text>
+<text id="5511">%null%</text>
+<text id="5512">%null%</text>
+<text id="5513">%null%</text>
+<text id="5514">%null%</text>
+<text id="5515">%null%</text>
+<text id="5516">%null%</text>
+<text id="5517">%null%</text>
+<text id="5518">%null%</text>
+<text id="5519">%null%</text>
+<text id="5520">Unique Skill: Hone Blade
+
+Perform a stroking action to sharpen blade, honing its cutting edge and increasing amount of HP recovered. The greater potentates treasure the tools of their practice.</text>
+<text id="5521">%null%</text>
+<text id="5522">%null%</text>
+<text id="5523">%null%</text>
+<text id="5524">%null%</text>
+<text id="5525">%null%</text>
+<text id="5526">%null%</text>
+<text id="5527">%null%</text>
+<text id="5528">%null%</text>
+<text id="5529">%null%</text>
+<text id="5530">Unique Skill: Horn Calling
+
+Invokes tangled horns to cover the weapon's blade. Drive the weapon into the ground, calling up a cluster of piercing horns.</text>
+<text id="5531">%null%</text>
+<text id="5532">%null%</text>
+<text id="5533">%null%</text>
+<text id="5534">%null%</text>
+<text id="5535">%null%</text>
+<text id="5536">%null%</text>
+<text id="5537">%null%</text>
+<text id="5538">%null%</text>
+<text id="5539">%null%</text>
+<text id="5540">Unique Skill: Horn Calling: Storm
+
+Invokes tangled horns to cover the weapon's blade. Call a storm into the horns, then mow through enemies. Additional inputs allow for up to two follow-up attacks.</text>
+<text id="5541">%null%</text>
+<text id="5542">%null%</text>
+<text id="5543">%null%</text>
+<text id="5544">%null%</text>
+<text id="5545">%null%</text>
+<text id="5546">%null%</text>
+<text id="5547">%null%</text>
+<text id="5548">%null%</text>
+<text id="5549">%null%</text>
+<text id="5550">Unique Skill: Tremendous Phalanx
+
+Skill of the enchanted troll knights. Creates a defensive arch of enormous magic glintblades overhead, which automatically attack nearby foes. Follow up with a strong attack to chain this skill into a lunging thrust.</text>
+<text id="5551">%null%</text>
+<text id="5552">%null%</text>
+<text id="5553">%null%</text>
+<text id="5554">%null%</text>
+<text id="5555">%null%</text>
+<text id="5556">%null%</text>
+<text id="5557">%null%</text>
+<text id="5558">%null%</text>
+<text id="5559">%null%</text>
+<text id="5560">Unique Skill: Bloodfiends' Bloodboon
+
+Raise the sacred spear and pierce the body of the mother of truth, creating an explosion of bloodflame in the area surrounding the target. Additional input allows for up to three follow-up attacks.</text>
+<text id="5561">%null%</text>
+<text id="5562">%null%</text>
+<text id="5563">%null%</text>
+<text id="5564">%null%</text>
+<text id="5565">%null%</text>
+<text id="5566">%null%</text>
+<text id="5567">%null%</text>
+<text id="5568">%null%</text>
+<text id="5569">%null%</text>
+<text id="5570">Unique Skill: Dragonform Flame
+
+Spew fire from a dragon-form maw, sweeping in a frontward arc. The flames on the ground will continue to burn for a short time.</text>
+<text id="5571">%null%</text>
+<text id="5572">%null%</text>
+<text id="5573">%null%</text>
+<text id="5574">%null%</text>
+<text id="5575">%null%</text>
+<text id="5576">%null%</text>
+<text id="5577">%null%</text>
+<text id="5578">%null%</text>
+<text id="5579">%null%</text>
+<text id="5580">Unique Skill: Lightspeed Slash
+
+Assume a luminous form and leap forward to deliver a downward slash at the speed of light. This attack will be followed up by an additional light attack. Charge to increase power of the skill and number of follow-up attacks.</text>
+<text id="5600">Unique Skill: Rancor Shot
+
+Imbue arrows with vengeful spirits, before firing off a barrage. Imbued arrows chase down foes as they cut through the air.</text>
+</entries>
+</fmg>

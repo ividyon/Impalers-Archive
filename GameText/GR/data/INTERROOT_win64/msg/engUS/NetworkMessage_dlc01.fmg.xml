@@ -1,0 +1,194 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<filename>NetworkMessage_dlc01.fmg</filename>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="2601425">Summoned to another world.
+Defeat Needle Knight Leda and her allies!</text>
+<text id="2601426">Summoned to another world.
+Defeat Sir Ansbach!</text>
+<text id="2601427">Summoned to another world.
+Defeat Needle Knight Leda!</text>
+<text id="2601428">Summoned to another world.
+Defeat Hornsent!</text>
+<text id="2601429">Summoned to another world.
+Defeat Needle Knight Leda!</text>
+<text id="2611425">Needle Knight Leda and her allies defeated.
+Returning to your world.</text>
+<text id="2611426">Sir Ansbach defeated.
+Returning to your world.</text>
+<text id="2611427">Needle Knight Leda defeated.
+Returning to your world.</text>
+<text id="2611428">Hornsent defeated.
+Returning to your world.</text>
+<text id="2611429">Needle Knight Leda defeated.
+Returning to your world.</text>
+<text id="2621425">You died. Returning to your world.</text>
+<text id="2621426">You died. Returning to your world.</text>
+<text id="2621427">You died. Returning to your world.</text>
+<text id="2621428">You died. Returning to your world.</text>
+<text id="2621429">You died. Returning to your world.</text>
+<text id="2622425">The Host of Fingers has died.
+Returning to world of host.</text>
+<text id="2631425">Returning to your world</text>
+<text id="2631426">Returning to your world</text>
+<text id="2631427">Returning to your world</text>
+<text id="2631428">Returning to your world</text>
+<text id="2631429">Returning to your world</text>
+<text id="2632425">The Host of Fingers returned to their world. Returning to world of host.</text>
+<text id="2640425">Furled Finger &lt;?leaveName?&gt; was sent back to their world</text>
+<text id="2641425">Sent home by the Host of Fingers.
+Returning to your world.</text>
+<text id="2642425">Furled Finger &lt;?leaveName?&gt; has been sent back to their world</text>
+<text id="2691425">You died. Returning to your world.</text>
+<text id="2692425">Furled Finger &lt;?deadName?&gt; has died</text>
+<text id="2693425">Returning to your world</text>
+<text id="2694425">Furled Finger &lt;?leaveName?&gt; has returned to their world</text>
+<text id="4080100">Summoning cooperator...</text>
+<text id="4080101">%null%</text>
+<text id="4080102">%null%</text>
+<text id="4080103">%null%</text>
+<text id="4080104">%null%</text>
+<text id="4080105">%null%</text>
+<text id="4080106">%null%</text>
+<text id="4080107">%null%</text>
+<text id="4080108">%null%</text>
+<text id="4080109">%null%</text>
+<text id="4080110">Summoning another cooperator...</text>
+<text id="4080800">Drake Warrior Igon summoned as a cooperator</text>
+<text id="4080801">Drake Warrior Igon summoned as a cooperator</text>
+<text id="4080802">Drake Warrior Igon has died</text>
+<text id="4080803">%null%</text>
+<text id="4080804">%null%</text>
+<text id="4080805">%null%</text>
+<text id="4080806">%null%</text>
+<text id="4080807">%null%</text>
+<text id="4080808">%null%</text>
+<text id="4080809">%null%</text>
+<text id="4080810">Thiollier summoned as a cooperator</text>
+<text id="4080811">Thiollier summoned as a cooperator</text>
+<text id="4080812">Thiollier has died</text>
+<text id="4080813">%null%</text>
+<text id="4080814">%null%</text>
+<text id="4080815">%null%</text>
+<text id="4080816">%null%</text>
+<text id="4080817">%null%</text>
+<text id="4080818">%null%</text>
+<text id="4080819">%null%</text>
+<text id="4080820">Invaded by Thiollier!</text>
+<text id="4080821">%null%</text>
+<text id="4080822">Thiollier has died</text>
+<text id="4080823">%null%</text>
+<text id="4080824">%null%</text>
+<text id="4080825">%null%</text>
+<text id="4080826">%null%</text>
+<text id="4080827">%null%</text>
+<text id="4080828">%null%</text>
+<text id="4080829">%null%</text>
+<text id="4080830">Invaded by Swordhand of Night Jolán!</text>
+<text id="4080831">%null%</text>
+<text id="4080832">Swordhand of Night Jolán has died</text>
+<text id="4080833">%null%</text>
+<text id="4080834">%null%</text>
+<text id="4080835">%null%</text>
+<text id="4080836">%null%</text>
+<text id="4080837">%null%</text>
+<text id="4080838">%null%</text>
+<text id="4080839">%null%</text>
+<text id="4080840">Pureblood Knight Ansbach summoned as a cooperator</text>
+<text id="4080841">Pureblood Knight Ansbach summoned as a cooperator</text>
+<text id="4080842">Pureblood Knight Ansbach has died</text>
+<text id="4080843">Pureblood Knight Ansbach will be summoned as a cooperator at the appropriate time</text>
+<text id="4080844">%null%</text>
+<text id="4080845">%null%</text>
+<text id="4080846">%null%</text>
+<text id="4080847">%null%</text>
+<text id="4080848">%null%</text>
+<text id="4080849">%null%</text>
+<text id="4080850">Thiollier summoned as a cooperator</text>
+<text id="4080851">Thiollier summoned as a cooperator</text>
+<text id="4080852">Thiollier has died</text>
+<text id="4080853">Thiollier will be summoned as a cooperator at the appropriate time</text>
+<text id="4080854">%null%</text>
+<text id="4080855">%null%</text>
+<text id="4080856">%null%</text>
+<text id="4080857">%null%</text>
+<text id="4080858">%null%</text>
+<text id="4080859">%null%</text>
+<text id="4080860">Sanguine Noble Nataan summoned as a cooperator</text>
+<text id="4080861">Sanguine Noble Nataan summoned as a cooperator</text>
+<text id="4080862">Sanguine Noble Nataan has died</text>
+<text id="4080863">Sanguine Noble Nataan will be summoned as a cooperator at the appropriate time</text>
+<text id="4080864">%null%</text>
+<text id="4080865">%null%</text>
+<text id="4080866">%null%</text>
+<text id="4080867">%null%</text>
+<text id="4080868">%null%</text>
+<text id="4080869">%null%</text>
+<text id="4080870">Hornsent summoned as a cooperator</text>
+<text id="4080871">Hornsent summoned as a cooperator</text>
+<text id="4080872">Hornsent has died</text>
+<text id="4080873">%null%</text>
+<text id="4080874">%null%</text>
+<text id="4080875">%null%</text>
+<text id="4080876">%null%</text>
+<text id="4080877">%null%</text>
+<text id="4080878">%null%</text>
+<text id="4080879">%null%</text>
+<text id="4080880">Swordhand of Night, Jolán summoned as a cooperator</text>
+<text id="4080881">Swordhand of Night, Jolán summoned as a cooperator</text>
+<text id="4080882">Swordhand of Night, Jolán has died</text>
+<text id="4080883">%null%</text>
+<text id="4080884">%null%</text>
+<text id="4080885">%null%</text>
+<text id="4080886">%null%</text>
+<text id="4080887">%null%</text>
+<text id="4080888">%null%</text>
+<text id="4080889">%null%</text>
+<text id="4080890">Hornsent summoned as an adversary</text>
+<text id="4080891">%null%</text>
+<text id="4080892">Hornsent has died</text>
+<text id="4080893">%null%</text>
+<text id="4080894">%null%</text>
+<text id="4080895">%null%</text>
+<text id="4080896">%null%</text>
+<text id="4080897">%null%</text>
+<text id="4080898">%null%</text>
+<text id="4080899">%null%</text>
+<text id="4080900">Moore summoned as an adversary</text>
+<text id="4080901">%null%</text>
+<text id="4080902">Moore has died</text>
+<text id="4080903">%null%</text>
+<text id="4080904">%null%</text>
+<text id="4080905">%null%</text>
+<text id="4080906">%null%</text>
+<text id="4080907">%null%</text>
+<text id="4080908">%null%</text>
+<text id="4080909">%null%</text>
+<text id="4080910">Redmane Freyja summoned as an adversary</text>
+<text id="4080911">%null%</text>
+<text id="4080912">Redmane Freyja has died</text>
+<text id="4080913">%null%</text>
+<text id="4080914">%null%</text>
+<text id="4080915">%null%</text>
+<text id="4080916">%null%</text>
+<text id="4080917">%null%</text>
+<text id="4080918">%null%</text>
+<text id="4080919">%null%</text>
+<text id="4080920">Needle Knight Leda summoned as an adversary</text>
+<text id="4080921">%null%</text>
+<text id="4080922">Needle Knight Leda has died</text>
+<text id="4080923">%null%</text>
+<text id="4080924">%null%</text>
+<text id="4080925">%null%</text>
+<text id="4080926">%null%</text>
+<text id="4080927">%null%</text>
+<text id="4080928">%null%</text>
+<text id="4080929">%null%</text>
+<text id="4080930">Dryleaf Dane summoned as an adversary</text>
+<text id="4080931">%null%</text>
+<text id="4080932">Dryleaf Dane has died</text>
+</entries>
+</fmg>

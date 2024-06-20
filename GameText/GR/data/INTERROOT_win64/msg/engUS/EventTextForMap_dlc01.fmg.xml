@@ -1,0 +1,177 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<filename>EventTextForMap_dlc01.fmg</filename>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="1030000">Map of cross sites received.
+Check in inventory.</text>
+<text id="1030001">Map of cross sites received.
+Check in inventory.</text>
+<text id="1030002">%null%</text>
+<text id="1030003">%null%</text>
+<text id="1030004">%null%</text>
+<text id="1030005">%null%</text>
+<text id="1030006">%null%</text>
+<text id="1030007">%null%</text>
+<text id="1030008">%null%</text>
+<text id="1030009">%null%</text>
+<text id="1030010">Map to old ruins received.
+Check in inventory.</text>
+<text id="1030011">Map to old ruins received.
+Check in inventory.</text>
+<text id="1030012">Map to old ruins received.
+Check in inventory.</text>
+<text id="1030013">%null%</text>
+<text id="1030014">%null%</text>
+<text id="1030015">%null%</text>
+<text id="1030016">%null%</text>
+<text id="1030017">%null%</text>
+<text id="1030018">%null%</text>
+<text id="1030019">%null%</text>
+<text id="1030020">Carved words coalesce.
+"I abandon here my arm sinistral."</text>
+<text id="1030021">Carved words coalesce.
+"I abandon here my eye."</text>
+<text id="1030022">Carved words coalesce.
+"I abandon here the first of the flesh of my body."</text>
+<text id="1030023">Carved words coalesce.
+"I abandon here a part of the flesh of my body."</text>
+<text id="1030024">Carved words coalesce.
+"I abandon here my heart."</text>
+<text id="1030025">Carved words coalesce.
+"I abandon here my doubt and vacillation."</text>
+<text id="1030026">Carved words coalesce.
+"I abandon here the last of the flesh of my body."</text>
+<text id="1030027">Carved words coalesce.
+"I abandon here a part of the flesh of my body."</text>
+<text id="1030028">Carved words coalesce.
+"I abandon here all my fears."</text>
+<text id="1030029">Carved words coalesce.
+"I abandon here my love."</text>
+<text id="1030030">Yuri, beloved child. Taken before his time.</text>
+<text id="1030031">%null%</text>
+<text id="1030032">%null%</text>
+<text id="1030033">%null%</text>
+<text id="1030034">%null%</text>
+<text id="1030035">%null%</text>
+<text id="1030036">%null%</text>
+<text id="1030037">%null%</text>
+<text id="1030038">%null%</text>
+<text id="1030039">%null%</text>
+<text id="1030040">Somewhere, a great rune has broken...</text>
+<text id="1030041">And so too has a powerful charm.</text>
+<text id="1030042">%null%</text>
+<text id="1030043">%null%</text>
+<text id="1030044">%null%</text>
+<text id="1030045">%null%</text>
+<text id="1030046">%null%</text>
+<text id="1030047">%null%</text>
+<text id="1030048">%null%</text>
+<text id="1030049">%null%</text>
+<text id="1030050">Carved words coalesce.
+"I abandon here the flesh of my body."</text>
+<text id="1030051">Carved words coalesce.
+"I abandon here my arm dextral."</text>
+<text id="1030052">Carved words coalesce.
+"I abandon here the flesh of my body."</text>
+<text id="2020000">Head to the realm of shadow?</text>
+<text id="2020001">%null%</text>
+<text id="2020002">Sealed and obscured by shadow</text>
+<text id="2020003">%null%</text>
+<text id="2020004">Sealed and obscured by Miquella</text>
+<text id="2020025">Raise the Stone-Sheathed Sword to the light?</text>
+<text id="2020026">Raise the Stone-Sheathed Sword to the dark?</text>
+<text id="2020027">Raise the Sword of Darkness to the light?</text>
+<text id="2020028">Raise the Sword of Light to the dark?</text>
+<text id="2020029">%null%</text>
+<text id="2020030">Somewhere, a spiritspring has been unsealed</text>
+<text id="2030000">Burn the sealing tree?</text>
+<text id="2030001">The sealing tree obscures the tower in shadow.
+It cannot be burned without Messmer's kindling.</text>
+<text id="2062000">The very center of the Lands Between.
+All manners of Death wash up here, only to be suppressed.</text>
+<text id="2080601">Be summoned to assist Needle Knight Leda?</text>
+<text id="2080602">Be summoned to assist Sir Ansbach?</text>
+<text id="2080603">Be summoned to assist Needle Knight Leda?</text>
+<text id="2080604">Be summoned to assist Hornsent?</text>
+<text id="2080605">Be summoned to challenge Needle Knight Leda and her allies?</text>
+<text id="2080800">Summon Drake Warrior Igon?</text>
+<text id="2080801">%null%</text>
+<text id="2080802">%null%</text>
+<text id="2080803">%null%</text>
+<text id="2080804">%null%</text>
+<text id="2080805">%null%</text>
+<text id="2080806">%null%</text>
+<text id="2080807">%null%</text>
+<text id="2080808">%null%</text>
+<text id="2080809">%null%</text>
+<text id="2080810">Summon Thiollier?</text>
+<text id="2080840">Summon Pureblood Knight Ansbach?
+This cooperator will not arrive until the time is right.</text>
+<text id="2080841">%null%</text>
+<text id="2080842">%null%</text>
+<text id="2080843">%null%</text>
+<text id="2080844">%null%</text>
+<text id="2080845">%null%</text>
+<text id="2080846">%null%</text>
+<text id="2080847">%null%</text>
+<text id="2080848">%null%</text>
+<text id="2080849">%null%</text>
+<text id="2080850">Summon Thiollier?
+This cooperator will not arrive until the time is right.</text>
+<text id="2080851">%null%</text>
+<text id="2080852">%null%</text>
+<text id="2080853">%null%</text>
+<text id="2080854">%null%</text>
+<text id="2080855">%null%</text>
+<text id="2080856">%null%</text>
+<text id="2080857">%null%</text>
+<text id="2080858">%null%</text>
+<text id="2080859">%null%</text>
+<text id="2080860">Summon Sanguine Noble Nataan?
+This cooperator will not arrive until the time is right.</text>
+<text id="2080861">%null%</text>
+<text id="2080862">%null%</text>
+<text id="2080863">%null%</text>
+<text id="2080864">%null%</text>
+<text id="2080865">%null%</text>
+<text id="2080866">%null%</text>
+<text id="2080867">%null%</text>
+<text id="2080868">%null%</text>
+<text id="2080869">%null%</text>
+<text id="2080870">Summon Hornsent?</text>
+<text id="2080871">%null%</text>
+<text id="2080872">%null%</text>
+<text id="2080873">%null%</text>
+<text id="2080874">%null%</text>
+<text id="2080875">%null%</text>
+<text id="2080876">%null%</text>
+<text id="2080877">%null%</text>
+<text id="2080878">%null%</text>
+<text id="2080879">%null%</text>
+<text id="2080880">Summon Swordhand of Night Jolán?</text>
+<text id="20208004">Used &lt;?gdsparam@2008004?&gt;</text>
+<text id="20208005">Used &lt;?gdsparam@2008005?&gt;</text>
+<text id="20208006">Used &lt;?gdsparam@2008006?&gt;</text>
+<text id="20208007">%null%</text>
+<text id="20208008">%null%</text>
+<text id="20208009">%null%</text>
+<text id="20208010">%null%</text>
+<text id="20208011">%null%</text>
+<text id="20208012">%null%</text>
+<text id="20208013">Used &lt;?gdsparam@2008013?&gt;</text>
+<text id="20208014">%null%</text>
+<text id="20208015">%null%</text>
+<text id="20208016">%null%</text>
+<text id="20208017">%null%</text>
+<text id="20208018">%null%</text>
+<text id="20208019">%null%</text>
+<text id="20208020">%null%</text>
+<text id="20208021">%null%</text>
+<text id="20208022">%null%</text>
+<text id="20208023">Used &lt;?gdsparam@2008023?&gt;</text>
+<text id="20208036">Used &lt;?gdsparam@2008036?&gt;</text>
+</entries>
+</fmg>

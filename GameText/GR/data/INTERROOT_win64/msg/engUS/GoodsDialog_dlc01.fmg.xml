@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<filename>GoodsDialog_dlc01.fmg</filename>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="10010850">Use &lt;?gdsparam@2002900?&gt;?</text>
+<text id="10010851">Use &lt;?gdsparam@2002901?&gt;?</text>
+<text id="10010852">Use &lt;?gdsparam@2002902?&gt;?</text>
+<text id="10010853">Use &lt;?gdsparam@2002903?&gt;?</text>
+<text id="10010854">Use &lt;?gdsparam@2002904?&gt;?</text>
+<text id="10010855">Use &lt;?gdsparam@2002905?&gt;?</text>
+<text id="10010856">%null%</text>
+<text id="10010857">Use &lt;?gdsparam@2002907?&gt;?</text>
+<text id="10010858">Use &lt;?gdsparam@2002908?&gt;?</text>
+<text id="10010859">Use &lt;?gdsparam@2002909?&gt;?</text>
+<text id="10010860">Use &lt;?gdsparam@2002910?&gt;?</text>
+<text id="20000810">The spectral steed is frightened and cannot be summoned.</text>
+</entries>
+</fmg>

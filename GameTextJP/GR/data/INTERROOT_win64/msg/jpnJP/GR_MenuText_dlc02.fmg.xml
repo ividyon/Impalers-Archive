@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<filename>GR_MenuText_dlc02.fmg</filename>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="1010">DLCデータ分け用のダミー。テキストを追加する際にこの行は削除してください。</text>
+</entries>
+</fmg>

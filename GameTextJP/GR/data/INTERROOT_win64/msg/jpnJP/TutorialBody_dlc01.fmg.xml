@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<filename>TutorialBody_dlc01.fmg</filename>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="302600">影の地の各所で、影樹の破片を入手できる
+
+祝福で、それを消費することで
+「影樹の加護」を上げることができる
+
+影樹の加護は、それを受けた者の
+攻撃力とカット率を高めるが
+影の地の外では効果を発揮しない
+</text>
+<text id="302601">%null%</text>
+<text id="302602">%null%</text>
+<text id="302603">%null%</text>
+<text id="302604">%null%</text>
+<text id="302605">%null%</text>
+<text id="302606">%null%</text>
+<text id="302607">%null%</text>
+<text id="302608">%null%</text>
+<text id="302609">%null%</text>
+<text id="302610">影の地の各所で、霊灰を入手できる
+
+祝福で、それを消費することで
+「霊灰の加護」を上げることができる
+
+霊灰の加護は、召喚する霊体と霊馬の
+攻撃力とカット率を高めるが
+影の地の外では効果を発揮しない
+</text>
+<text id="302611">%null%</text>
+<text id="302612">%null%</text>
+<text id="302613">%null%</text>
+<text id="302614">%null%</text>
+<text id="302615">%null%</text>
+<text id="302616">%null%</text>
+<text id="302617">%null%</text>
+<text id="302618">%null%</text>
+<text id="302619">%null%</text>
+<text id="302620">システムメニューの表示タブから
+以下の新機能を設定することができる
+
+・初めて入手したアイテムに&lt;?newItemIcon?&gt;を表示する
+・最近入手したアイテムを専用のタブで確認する
+</text>
+<text id="402600">影樹の破片を消費して
+「影樹の加護」を上げることができる
+
+影樹の加護は、それを受けた者の
+攻撃力とカット率を高めるが
+影の地の外では効果を発揮しない
+</text>
+<text id="402601">%null%</text>
+<text id="402602">%null%</text>
+<text id="402603">%null%</text>
+<text id="402604">%null%</text>
+<text id="402605">%null%</text>
+<text id="402606">%null%</text>
+<text id="402607">%null%</text>
+<text id="402608">%null%</text>
+<text id="402609">%null%</text>
+<text id="402610">霊灰を消費して
+「霊灰の加護」を上げることができる
+
+霊灰の加護は、召喚する霊体と霊馬の
+攻撃力とカット率を高めるが
+影の地の外では効果を発揮しない
+</text>
+</entries>
+</fmg>

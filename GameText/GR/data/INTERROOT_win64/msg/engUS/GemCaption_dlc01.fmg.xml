@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<filename>GemCaption_dlc01.fmg</filename>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="200000">This Ash of War grants no affinity to an armament, but imparts the following skill:
+
+"Dryleaf Whirlwind: This skill represents the pinnacle of Dane's footwork-based martial artistry. Rise into the air with a series of spinning kicks before crashing down with one final strike. Imbues kicking attacks with energy, increasing their range."
+
+Usable on hand-to-hand weapons.</text>
+<text id="200100">This Ash of War grants an armament the Sacred affinity and the following skill:
+
+"Aspects of the Crucible (Wings): This skill originates from the lifeforms of the Crucible. Grow a golden pair of wings and take to the air before diving down at the foe, weapon first. A spinning attack is performed when wielding a twinblade."
+
+Usable on swords as well as polearms capable of thrusting (colossal weapons excepted).</text>
+<text id="400000">This Ash of War grants an armament the Heavy affinity and the following skill:
+
+"Spinning Gravity Thrust: A gravity skill honed by the disciples of an Alabaster Lord. Uses gravitational power to hang in the air before rotating the body and charging forward. An additional input allows for a follow-up attack."
+
+Usable on large and colossal swords.</text>
+<text id="401000">This Ash of War grants no affinity to an armament, but imparts the following skill:
+
+"Palm Blast: Skill of the spiritual seekers known as the Dryleaf Sect. Imbues hand with energy before using a palm strike to unleash an explosive blast. The already formidable power and impact can be bolstered by charging the attack."
+
+Usable on hand-to-hand weapons.</text>
+<text id="402000">This Ash of War grants an armament the Keen affinity and the following skill:
+
+"Piercing Throw: Throw armament with a powerful spin, causing it to bore through foes. When using this skill, the armament can be thrown further than normal and also pierce through enemies."
+
+Usable on throwing blades.</text>
+<text id="403000">This Ash of War grants an armament the Keen affinity and the following skill:
+
+"Scattershot Throw: Employ smithing arts to conjure multiple copies of the armament in both hands and throw them all at once. Follow up with an additional input to throw again."
+
+Usable on throwing blades.</text>
+<text id="404000">This Ash of War grants no affinity to an armament, but imparts the following skill:
+
+"Wall of Sparks: Scatter perfumed powder in vicinity, producing intense sparks after a brief delay. Can be charged to increase power and range. The properties of the sparks are determined by the perfume bottle used."
+
+Usable on perfume bottles.</text>
+<text id="405000">This Ash of War grants no affinity to an armament, but imparts the following skill:
+
+"Rolling Sparks: Scatter perfumed powder before you, triggering rolling explosions of deadly sparks. The properties of the sparks are determined by the perfume bottle used."
+
+Usable on perfume bottles.</text>
+<text id="406000">This Ash of War grants an armament the Keen affinity and the following skill:
+
+"Raging Beast: Step with the swiftness of a beast, leap high, and slash foe from above. Initial step can be taken forward, backward, left, or right. Strong attack allows for a follow-up attack."
+
+Usable on beast claws.</text>
+<text id="407000">This Ash of War grants an armament the Keen affinity and the following skill:
+
+"Savage Claws: Pounce like a beast to viciously slash into foe with left and right claws."
+
+Usable on beast claws.</text>
+<text id="409000">This Ash of War grants an armament the Keen affinity and the following skill:
+
+"Blind Spot: Leap into close quarters to take advantage of the enemy's blind spot and gore them from the side. Inputs determine which side you strike from. This attack slips below the opponent's guard."
+
+Usable on backhand blades.</text>
+<text id="410000">This Ash of War grants an armament the Keen affinity and the following skill:
+
+"Swift Slash: A skill passed down amongst hornsent swordsmen. Take a swift forward step to slice through foes. This sharp strike also fires off a shearing vacuum. Can be charged to increase the skill's power and the distance of the forward step."
+
+Usable on backhand blades.</text>
+<text id="411000">This Ash of War grants an armament the Keen affinity and the following skill:
+
+"Overhead Stance: A skill that starts with the blade held high in a ready stance. Execute a normal attack from this stance to step forward and slash downwards, or a strong attack to deliver a series of downward slashes."
+
+Usable on great katana.</text>
+<text id="412000">This Ash of War grants an armament the Quality affinity and the following skill:
+
+"Wing Stance: Calmly assume a right-sided stance. Normal attack triggers a rapid three-slash combination. Strong attack triggers a leaping thrust."
+
+Usable on light greatswords.</text>
+<text id="413000">This Ash of War grants an armament the Lightning affinity and the following skill:
+
+"Blinkbolt: Skill used by the golden knights who served Godwyn. From a low stance, the body is transformed into a bolt of lightning and charges straight ahead at fulgurous speed."
+
+Usable on all melee armaments.</text>
+<text id="414000">This Ash of War grants an armament the Flame Art affinity and the following skill:
+
+"Flame Skewer: Skill of Queelign of the Fire Knights. Enwreathe armament in flame and assume a low stance before skewering the enemy in a single motion. Strong attack unleashes a follow-up flame attack."
+
+Usable on medium and large armaments capable of thrusting.</text>
+<text id="415000">This Ash of War grants an armament the Heavy affinity and the following skill:
+
+"Savage Lion's Claw: Skill of the particularly brave, even among the Redmanes. Somersault forwards, striking foes with armament. An additional strike may be performed with an additional input."
+
+Usable on swords, axes, and hammers
+(small armaments and thrusting swords excepted).</text>
+<text id="416000">This Ash of War grants an armament the Cold affinity and the following skill:
+
+"Divine Beast Frost Stomp: A skill which imitates the wrath of the divine beast's dance. Lift a leg up high and stamp it down with great force. Sends a powerful wave of frost straight out along the ground. Can be charged to increase power and range."
+
+Usable on all melee armaments.</text>
+<text id="417000">This Ash of War grants an armament the Flame Art affinity and the following skill:
+
+"Flame Spear: Skill of Kood, captain of the Fire Knights. Ready weapon for a thrusting attack and unleash a spear of flame straight ahead. Charge the attack to increase damage dealt and distance travelled."
+
+Usable on armaments capable of thrusting (claws and backhand blades excepted).</text>
+<text id="418000">This Ash of War grants an armament the Magic affinity and the following skill:
+
+"Carian Sovereignty: Skill passed down the Carian royal family. Transform blade into a magical greatsword and bring it down. Additional input follows up with a horizontal sweep. Charge either attack to enhance potency."
+
+Usable on swords (colossal weapons excepted).</text>
+<text id="419000">This Ash of War grants an armament the Occult affinity and the following skill:
+
+"Shriek of Sorrow: Skill utilized by the downtrodden. Scream, causing nearby enemies to flinch, while also recalling deep-seated resentment, boosting attack power based on the amount of HP remaining. The lower the HP, the greater the effect."
+
+Usable on all melee armaments.</text>
+<text id="422000">This Ash of War grants an armament the Cold affinity and the following skill:
+
+"Ghostflame Call: Thrust out armament to summon ghostflame. Follow up with a normal attack to set the ground ablaze with ghostflame, or a strong attack to trigger a massive explosion."
+
+Usable on swords and spears
+(small armaments, twinblades, and backhand blades excepted).</text>
+<text id="505000">This Ash of War grants an armament the Poison affinity and the following skill:
+
+"The Poison Flower Blooms Twice: Conjures stingers of scarlet rot from below to stab the enemy. Landing a follow-up attack on a foe already inflicted with poison or rot deals massive damage in one fell swoop."
+
+Usable on all melee armaments.</text>
+<text id="548000">This Ash of War grants no affinity to an armament, but imparts the following skill:
+
+"Igon's Drake Hunt: Skill of Igon, drake warrior. Ready the bow before unleashing a twisted shot with a great bellow that considerably enhances its power."
+
+Usable on greatbows.</text>
+<text id="800000">This Ash of War grants no affinity to an armament, but imparts the following skill:
+
+"Shield Strike: A skill that uses the shield to attack. Repeated inputs allow for up to three follow-up attacks."
+
+Usable on all shields.</text>
+</entries>
+</fmg>

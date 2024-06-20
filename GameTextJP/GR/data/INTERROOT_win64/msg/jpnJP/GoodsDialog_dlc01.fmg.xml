@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<filename>GoodsDialog_dlc01.fmg</filename>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="10010850">&lt;?gdsparam@2002900?&gt;を使いますか？</text>
+<text id="10010851">&lt;?gdsparam@2002901?&gt;を使いますか？</text>
+<text id="10010852">&lt;?gdsparam@2002902?&gt;を使いますか？</text>
+<text id="10010853">&lt;?gdsparam@2002903?&gt;を使いますか？</text>
+<text id="10010854">&lt;?gdsparam@2002904?&gt;を使いますか？</text>
+<text id="10010855">&lt;?gdsparam@2002905?&gt;を使いますか？</text>
+<text id="10010856">%null%</text>
+<text id="10010857">&lt;?gdsparam@2002907?&gt;を使いますか？</text>
+<text id="10010858">&lt;?gdsparam@2002908?&gt;を使いますか？</text>
+<text id="10010859">&lt;?gdsparam@2002909?&gt;を使いますか？</text>
+<text id="10010860">&lt;?gdsparam@2002910?&gt;を使いますか？</text>
+<text id="20000810">霊馬が怯えている。呼び出すことはできない</text>
+</entries>
+</fmg>

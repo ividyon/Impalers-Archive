@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<filename>LoadingText_dlc01.fmg</filename>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="80">Consume Scadutree Fragments at sites of grace to bolster your Scadutree Blessing.
+
+The Scadutree Blessing bolsters the recipient's abilities to deal and negate damage, but has no influence outside the realm of shadow.</text>
+<text id="81">Consume Revered Spirit Ash at sites of grace to bolster your Revered Spirit Ash Blessing.
+
+The Revered Spirit Ash Blessing bolsters both summoned spirits' and spectral steed's abilities to deal and negate damage but has no influence outside the realm of shadow.</text>
+<text id="205">Items acquired for the first time can be marked with &lt;?newItemIcon?&gt;.
+
+Display of this mark can be enabled or disabled in the display tab within the system menu.</text>
+<text id="206">Recently acquired items can be viewed on a dedicated tab.
+
+You can turn this tab on or off in the display tab within the system menu.</text>
+<text id="207">Activated summoning pools will be carried over into subsequent playthroughs.
+
+You can enable or disable summoning pools individually using the list on the map functions menu.</text>
+</entries>
+</fmg>

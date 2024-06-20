@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<filename>LoadingText_dlc02.fmg</filename>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="154">一部の敵には、弱点部位が存在する
+頭や尻尾など、敵によって弱点部位は異なる
+
+弱点部位を攻撃すると、与えるダメージが大きくなる</text>
+</entries>
+</fmg>

@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<filename>GR_MenuText_dlc01.fmg</filename>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="10410">Scadutree Blessing</text>
+<text id="10411">Revered Spirit Ash Blessing</text>
+<text id="30205">Strength of the Scadutree Blessing.
+Affects only those within the realm of shadow
+who have received the Scadutree Blessing.</text>
+<text id="30206">Strength of the Revered Spirit Ash Blessing.
+Enhances summoned spirits and spectral steed, but only while within the bounds of the realm of shadow.</text>
+<text id="40382">Keyboard Only</text>
+<text id="40383">Keyboard and Mouse</text>
+<text id="40524">Recent Items</text>
+<text id="60180">Hand-to-Hand</text>
+<text id="60181">Perfume Bottle</text>
+<text id="60182">Thrusting Shield</text>
+<text id="60183">Throwing Blade</text>
+<text id="60184">Backhand Blade</text>
+<text id="60185">Light Greatsword</text>
+<text id="60186">Great Katana</text>
+<text id="60187">Beast Claw</text>
+<text id="63051">Usable on hand-to-hand weapons</text>
+<text id="63052">Usable on perfume bottles</text>
+<text id="63053">Usable on thrusting shields</text>
+<text id="63054">Usable on throwing blades</text>
+<text id="63055">Usable on backhand blades</text>
+<text id="63056">Usable on light greatswords</text>
+<text id="63057">Usable on great katana</text>
+<text id="63058">Usable on beast claws</text>
+<text id="63059">Usable on armaments capable of thrusting (claws and backhand blades excepted)</text>
+<text id="63060">Usable on large and colossal swords</text>
+<text id="63061">Usable on swords and spears (small armaments, twinblades, and backhand blades excepted)</text>
+<text id="80020">Hefty Cracked Pot</text>
+<text id="110600">Display</text>
+<text id="110601">Mark New Items</text>
+<text id="110602">%null%</text>
+<text id="110603">Show Recent Items Tab</text>
+<text id="110700">Sound</text>
+<text id="111024">Map Menu Cursor Movement</text>
+<text id="111025">Target Changing Sensitivity</text>
+<text id="225001">Dragon Communion: Bayle</text>
+<text id="225002">%null%</text>
+<text id="225003">%null%</text>
+<text id="225004">%null%</text>
+<text id="225005">%null%</text>
+<text id="225006">%null%</text>
+<text id="225007">%null%</text>
+<text id="225008">%null%</text>
+<text id="225009">%null%</text>
+<text id="225010">%null%</text>
+<text id="225011">Offerings</text>
+<text id="241337">Scadu Altus</text>
+<text id="241338">Cerulean Coast</text>
+<text id="241339">Foot of the Jagged Peak</text>
+<text id="241340">Jagged Peak</text>
+<text id="241341">Charo's Hidden Grave</text>
+<text id="241342">Ancient Ruins of Rauh</text>
+<text id="241343">Scaduview</text>
+<text id="241344">Abyssal Woods</text>
+<text id="241345">Belurat, Tower Settlement</text>
+<text id="241346">Enir-Ilim</text>
+<text id="241347">Shadow Keep</text>
+<text id="241348">Shadow Keep, Church District</text>
+<text id="241349">Specimen Storehouse</text>
+<text id="241350">Stone Coffin Fissure</text>
+<text id="241351">Midra's Manse</text>
+<text id="241352">Castle Ensis</text>
+<text id="241353">Gravesite Plain</text>
+<text id="241354">Rauh Base</text>
+<text id="241417">Gravesite Plain</text>
+<text id="241418">Scadu Altus</text>
+<text id="241419">Land of the Tower</text>
+<text id="241420">Shadow Keep</text>
+<text id="241500">Map Functions Menu</text>
+<text id="241501">Multiplayer Status Display</text>
+<text id="241502">Summoning Pool List</text>
+<text id="241503">View Controls</text>
+<text id="241504">Menu Explanation</text>
+<text id="241600">Summoning Pool List</text>
+<text id="280060">Menu</text>
+<text id="280600">Map</text>
+<text id="331340">HEART STOLEN</text>
+</entries>
+</fmg>

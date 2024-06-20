@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<filename>WeaponEffect_dlc01.fmg</filename>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="1200">Boosts finger sorcery</text>
+<text id="1201">Boosts Miquella's incantations</text>
+<text id="1202">Boosts Messmer's flame incantations</text>
+<text id="1203">Boosts spiral incantations</text>
+<text id="6800">Causes eternal sleep buildup (&lt;?sleepATKpwr?&gt;) </text>
+</entries>
+</fmg>

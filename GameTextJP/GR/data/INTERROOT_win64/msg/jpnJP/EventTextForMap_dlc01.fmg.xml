@@ -1,0 +1,178 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<filename>EventTextForMap_dlc01.fmg</filename>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="1030000">十字の地図を手に入れました
+インベントリから確認してください</text>
+<text id="1030001">十字の地図を手に入れました
+インベントリから確認してください</text>
+<text id="1030002">%null%</text>
+<text id="1030003">%null%</text>
+<text id="1030004">%null%</text>
+<text id="1030005">%null%</text>
+<text id="1030006">%null%</text>
+<text id="1030007">%null%</text>
+<text id="1030008">%null%</text>
+<text id="1030009">%null%</text>
+<text id="1030010">遺跡の地図を手に入れました
+インベントリから確認してください</text>
+<text id="1030011">遺跡の地図を手に入れました
+インベントリから確認してください</text>
+<text id="1030012">遺跡の地図を手に入れました
+インベントリから確認してください</text>
+<text id="1030013">%null%</text>
+<text id="1030014">%null%</text>
+<text id="1030015">%null%</text>
+<text id="1030016">%null%</text>
+<text id="1030017">%null%</text>
+<text id="1030018">%null%</text>
+<text id="1030019">%null%</text>
+<text id="1030020">刻まれた言葉が、心に浮かぶ
+「我が左腕を、ここに棄てる」</text>
+<text id="1030021">刻まれた言葉が、心に浮かぶ
+「我が瞳を、ここに棄てる」</text>
+<text id="1030022">刻まれた言葉が、心に浮かぶ
+「我が最初の肉体を、ここに棄てる」</text>
+<text id="1030023">刻まれた言葉が、心に浮かぶ
+「我が肉体を削り、ここに棄てる」</text>
+<text id="1030024">刻まれた言葉が、心に浮かぶ
+「我が心臓を、ここに棄てる」</text>
+<text id="1030025">刻まれた言葉が、心に浮かぶ
+「我が迷いを、ここに棄てる」</text>
+<text id="1030026">刻まれた言葉が、心に浮かぶ
+「我が最後の肉体を、ここに棄てる」</text>
+<text id="1030027">刻まれた言葉が、心に浮かぶ
+「我が肉体を削り、ここに棄てる」</text>
+<text id="1030028">刻まれた言葉が、心に浮かぶ
+「全ての恐れを、ここに棄てる」</text>
+<text id="1030029">刻まれた言葉が、心に浮かぶ
+「我が愛を、ここに棄てる」</text>
+<text id="1030030">私の愛しい子、儚いユーリ</text>
+<text id="1030031">%null%</text>
+<text id="1030032">%null%</text>
+<text id="1030033">%null%</text>
+<text id="1030034">%null%</text>
+<text id="1030035">%null%</text>
+<text id="1030036">%null%</text>
+<text id="1030037">%null%</text>
+<text id="1030038">%null%</text>
+<text id="1030039">%null%</text>
+<text id="1030040">何処かで、大ルーンが壊れた</text>
+<text id="1030041">魅了の力も、壊れたようだ</text>
+<text id="1030042">%null%</text>
+<text id="1030043">%null%</text>
+<text id="1030044">%null%</text>
+<text id="1030045">%null%</text>
+<text id="1030046">%null%</text>
+<text id="1030047">%null%</text>
+<text id="1030048">%null%</text>
+<text id="1030049">%null%</text>
+<text id="1030050">刻まれた言葉が、心に浮かぶ
+「我が肉体を削り、ここに棄てる」</text>
+<text id="1030051">刻まれた言葉が、心に浮かぶ
+「我が右腕を、ここに棄てる」</text>
+<text id="1030052">刻まれた言葉が、心に浮かぶ
+「我が肉体を削り、ここに棄てる」</text>
+<text id="2020000">影の地に向かいますか？</text>
+<text id="2020001">%null%</text>
+<text id="2020002">影に隠され、封印されている</text>
+<text id="2020003">%null%</text>
+<text id="2020004">ミケラにより封印されている</text>
+<text id="2020025">石鞘の剣を、光に捧げますか？</text>
+<text id="2020026">石鞘の剣を、闇に捧げますか？</text>
+<text id="2020027">ダークソードを、光に捧げますか？</text>
+<text id="2020028">ライトソードを、闇に捧げますか？</text>
+<text id="2020029">%null%</text>
+<text id="2020030">どこかで、霊気流の封印が解けた</text>
+<text id="2030000">封印の木を焼きますか？</text>
+<text id="2030001">封印の木が、塔を影に隠している
+「メスメルの火種」がなければ、焼くことはできない</text>
+<text id="2062000">狭間の中心
+あらゆる死が流れ着き
+あらゆる死を鎮める</text>
+<text id="2080601">「針の騎士、レダ」の協力者として召喚されますか？</text>
+<text id="2080602">「老兵アンスバッハ」の協力者として召喚されますか？</text>
+<text id="2080603">「針の騎士、レダ」の協力者として召喚されますか？</text>
+<text id="2080604">「角人」の協力者として召喚されますか？</text>
+<text id="2080605">「針の騎士、レダ」と同志たちの、敵対者として召喚されますか？</text>
+<text id="2080800">「竜の戦士、エーゴン」を召喚しますか？</text>
+<text id="2080801">%null%</text>
+<text id="2080802">%null%</text>
+<text id="2080803">%null%</text>
+<text id="2080804">%null%</text>
+<text id="2080805">%null%</text>
+<text id="2080806">%null%</text>
+<text id="2080807">%null%</text>
+<text id="2080808">%null%</text>
+<text id="2080809">%null%</text>
+<text id="2080810">「ティエリエ」を召喚しますか？</text>
+<text id="2080840">「純血騎士、アンスバッハ」を召喚しますか？
+この協力者は、後ほど召喚されます</text>
+<text id="2080841">%null%</text>
+<text id="2080842">%null%</text>
+<text id="2080843">%null%</text>
+<text id="2080844">%null%</text>
+<text id="2080845">%null%</text>
+<text id="2080846">%null%</text>
+<text id="2080847">%null%</text>
+<text id="2080848">%null%</text>
+<text id="2080849">%null%</text>
+<text id="2080850">「ティエリエ」を召喚しますか？
+この協力者は、後ほど召喚されます</text>
+<text id="2080851">%null%</text>
+<text id="2080852">%null%</text>
+<text id="2080853">%null%</text>
+<text id="2080854">%null%</text>
+<text id="2080855">%null%</text>
+<text id="2080856">%null%</text>
+<text id="2080857">%null%</text>
+<text id="2080858">%null%</text>
+<text id="2080859">%null%</text>
+<text id="2080860">「血の貴族、ナタン」を召喚しますか？
+この協力者は、後ほど召喚されます</text>
+<text id="2080861">%null%</text>
+<text id="2080862">%null%</text>
+<text id="2080863">%null%</text>
+<text id="2080864">%null%</text>
+<text id="2080865">%null%</text>
+<text id="2080866">%null%</text>
+<text id="2080867">%null%</text>
+<text id="2080868">%null%</text>
+<text id="2080869">%null%</text>
+<text id="2080870">「角人」を召喚しますか？</text>
+<text id="2080871">%null%</text>
+<text id="2080872">%null%</text>
+<text id="2080873">%null%</text>
+<text id="2080874">%null%</text>
+<text id="2080875">%null%</text>
+<text id="2080876">%null%</text>
+<text id="2080877">%null%</text>
+<text id="2080878">%null%</text>
+<text id="2080879">%null%</text>
+<text id="2080880">「夜の剣士、ヨラーン」を召喚しますか？</text>
+<text id="20208004">&lt;?gdsparam@2008004?&gt;を使いました</text>
+<text id="20208005">&lt;?gdsparam@2008005?&gt;を使いました</text>
+<text id="20208006">&lt;?gdsparam@2008006?&gt;を使いました</text>
+<text id="20208007">%null%</text>
+<text id="20208008">%null%</text>
+<text id="20208009">%null%</text>
+<text id="20208010">%null%</text>
+<text id="20208011">%null%</text>
+<text id="20208012">%null%</text>
+<text id="20208013">&lt;?gdsparam@2008013?&gt;を使いました</text>
+<text id="20208014">%null%</text>
+<text id="20208015">%null%</text>
+<text id="20208016">%null%</text>
+<text id="20208017">%null%</text>
+<text id="20208018">%null%</text>
+<text id="20208019">%null%</text>
+<text id="20208020">%null%</text>
+<text id="20208021">%null%</text>
+<text id="20208022">%null%</text>
+<text id="20208023">&lt;?gdsparam@2008023?&gt;を使いました</text>
+<text id="20208036">&lt;?gdsparam@2008036?&gt;を使いました</text>
+</entries>
+</fmg>

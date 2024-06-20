@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<filename>GR_Dialogues_dlc01.fmg</filename>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="111108">The frame rate limit setting will be changed, as the previous value is now invalid.</text>
+<text id="225001">Offer Heart of Bayle
+to make &lt;?itemName?&gt; thine own</text>
+<text id="236031">Cannot craft this item as you do not have enough hefty cracked pots</text>
+<text id="236061">Cannot craft this item as you do not have any hefty cracked pots</text>
+<text id="241200">A new map has been found.
+(Gravesite Plain)</text>
+<text id="241201">A new map has been found.
+(Scadu Altus)</text>
+<text id="241202">A new map has been found.
+(Southern Shore)</text>
+<text id="241203">A new map has been found.
+(Rauh Ruins)</text>
+<text id="241204">A new map has been found.
+(Abyss)</text>
+</entries>
+</fmg>

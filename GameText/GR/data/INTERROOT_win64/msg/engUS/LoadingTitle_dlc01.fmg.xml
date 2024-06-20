@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<filename>LoadingTitle_dlc01.fmg</filename>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="80">Scadutree Blessing</text>
+<text id="81">Revered Spirit Ash Blessing</text>
+<text id="205">Keeping Track of New Items</text>
+<text id="206">Keeping Track of Recent Items</text>
+<text id="207">Carrying Over Summoning Pools</text>
+</entries>
+</fmg>

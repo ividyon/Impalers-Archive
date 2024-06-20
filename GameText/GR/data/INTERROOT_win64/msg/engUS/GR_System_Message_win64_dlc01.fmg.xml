@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<filename>GR_System_Message_win64_dlc01.fmg</filename>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="280004">Please check your settings. Keys with dedicated menu functionality cannot be bound to other functions.</text>
+<text id="401130">The following DLC cannot be found:
+
+&lt;?requiredDlcList?&gt;
+
+This profile cannot be loaded until the required DLC is reinstalled.</text>
+<text id="401131">Shadow of the Erdtree</text>
+<text id="401406">Connection to Steamworks failed: &lt;?errcodeSteam?&gt;
+Returning to title menu.</text>
+</entries>
+</fmg>

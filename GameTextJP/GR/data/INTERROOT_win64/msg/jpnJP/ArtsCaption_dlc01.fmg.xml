@@ -1,0 +1,1155 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<filename>ArtsCaption_dlc01.fmg</filename>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="2000">戦技「落葉旋風脚」
+
+ダン流蹴術の奥義たる戦技
+連続する回転蹴りで上昇し、最後に蹴り下ろす
+蹴撃は気を纏い、攻撃範囲が広い
+</text>
+<text id="2001">戦技「坩堝の諸相・翼」
+
+坩堝の生命に由来する戦技
+黄金の翼を生じ、飛翔して武器を掲げ突撃する
+両刃剣では、突撃は回転撃となる
+</text>
+<text id="4000">戦技「重力回転突き」
+
+かつて、白王に学んだ者たちが修めた重力の技
+重力で浮き上がった後、体ごと回転しながら突撃する
+追加入力で、もう一度突撃する
+</text>
+<text id="4001">%null%</text>
+<text id="4002">%null%</text>
+<text id="4003">%null%</text>
+<text id="4004">%null%</text>
+<text id="4005">%null%</text>
+<text id="4006">%null%</text>
+<text id="4007">%null%</text>
+<text id="4008">%null%</text>
+<text id="4009">%null%</text>
+<text id="4010">戦技「発勁」
+
+落葉派と呼ばれる求道者たちの戦技
+気を込めた掌底を打ち出し、それを爆発させる
+威力、衝撃ともに大きく、タメ使用で強化される
+</text>
+<text id="4011">%null%</text>
+<text id="4012">%null%</text>
+<text id="4013">%null%</text>
+<text id="4014">%null%</text>
+<text id="4015">%null%</text>
+<text id="4016">%null%</text>
+<text id="4017">%null%</text>
+<text id="4018">%null%</text>
+<text id="4019">%null%</text>
+<text id="4020">戦技「貫通投擲」
+
+武器に強い捻りを加えて投擲する戦技
+それは、常よりも長い距離を飛び
+敵の体を貫通する
+</text>
+<text id="4021">%null%</text>
+<text id="4022">%null%</text>
+<text id="4023">%null%</text>
+<text id="4024">%null%</text>
+<text id="4025">%null%</text>
+<text id="4026">%null%</text>
+<text id="4027">%null%</text>
+<text id="4028">%null%</text>
+<text id="4029">%null%</text>
+<text id="4030">戦技「散弾投擲」
+
+鍛冶術により、両手に武器を複製し
+多数を同時に投擲する戦技
+追加入力で、もう一度投擲する
+</text>
+<text id="4031">%null%</text>
+<text id="4032">%null%</text>
+<text id="4033">%null%</text>
+<text id="4034">%null%</text>
+<text id="4035">%null%</text>
+<text id="4036">%null%</text>
+<text id="4037">%null%</text>
+<text id="4038">%null%</text>
+<text id="4039">%null%</text>
+<text id="4040">戦技「囲む火花の香り」
+
+自らの周囲に広く香粉を散布し
+時間差で、大きな火花を生じる戦技
+タメ使用で強化され、火花の範囲が広がる
+火花の性質は、調香瓶の種類により変化する
+</text>
+<text id="4041">%null%</text>
+<text id="4042">%null%</text>
+<text id="4043">%null%</text>
+<text id="4044">%null%</text>
+<text id="4045">%null%</text>
+<text id="4046">%null%</text>
+<text id="4047">%null%</text>
+<text id="4048">%null%</text>
+<text id="4049">%null%</text>
+<text id="4050">戦技「連なる火花の香り」
+
+前方に香粉を散布し、時間差で
+連なるように大きな火花を生じる戦技
+火花の性質は、調香瓶の種類により変化する
+</text>
+<text id="4051">%null%</text>
+<text id="4052">%null%</text>
+<text id="4053">%null%</text>
+<text id="4054">%null%</text>
+<text id="4055">%null%</text>
+<text id="4056">%null%</text>
+<text id="4057">%null%</text>
+<text id="4058">%null%</text>
+<text id="4059">%null%</text>
+<text id="4060">戦技「獣の急襲」
+
+獣のような素早いステップから
+高く跳び、上空から敵を切り裂く戦技
+ステップの方向は前後左右に制御でき
+また、強攻撃で追撃に繋げられる
+</text>
+<text id="4061">%null%</text>
+<text id="4062">%null%</text>
+<text id="4063">%null%</text>
+<text id="4064">%null%</text>
+<text id="4065">%null%</text>
+<text id="4066">%null%</text>
+<text id="4067">%null%</text>
+<text id="4068">%null%</text>
+<text id="4069">%null%</text>
+<text id="4070">戦技「獣爪撃」
+
+獣のごとき低い跳躍から
+左右の爪で、激しく敵を切り裂く戦技
+</text>
+<text id="4071">%null%</text>
+<text id="4072">%null%</text>
+<text id="4073">%null%</text>
+<text id="4074">%null%</text>
+<text id="4075">%null%</text>
+<text id="4076">%null%</text>
+<text id="4077">%null%</text>
+<text id="4078">%null%</text>
+<text id="4079">%null%</text>
+<text id="4080">専用戦技「赤熊の狩り」
+
+腕を大きく振り上げ、鋭い爪で得物を屠る戦技
+その攻撃は真空を生じ、連続でダメージを与える
+追加入力で、二度まで追撃に繋げられる
+</text>
+<text id="4081">%null%</text>
+<text id="4082">%null%</text>
+<text id="4083">%null%</text>
+<text id="4084">%null%</text>
+<text id="4085">%null%</text>
+<text id="4086">%null%</text>
+<text id="4087">%null%</text>
+<text id="4088">%null%</text>
+<text id="4089">%null%</text>
+<text id="4090">戦技「死角の一撃」
+
+敵の懐の低い位置に跳び込み
+側面の死角から、刃を突き立てる戦技
+跳び込む方向は左右に制御でき
+その攻撃はガードをかいくぐる
+</text>
+<text id="4091">%null%</text>
+<text id="4092">%null%</text>
+<text id="4093">%null%</text>
+<text id="4094">%null%</text>
+<text id="4095">%null%</text>
+<text id="4096">%null%</text>
+<text id="4097">%null%</text>
+<text id="4098">%null%</text>
+<text id="4099">%null%</text>
+<text id="4100">戦技「速斬」
+
+角人の剣士に伝わる戦技
+瞬速の踏み込みから敵を斬る
+その一撃は鋭く、切り裂く真空を生じる
+タメ使用で強化され、踏み込む距離が伸びる
+</text>
+<text id="4101">%null%</text>
+<text id="4102">%null%</text>
+<text id="4103">%null%</text>
+<text id="4104">%null%</text>
+<text id="4105">%null%</text>
+<text id="4106">%null%</text>
+<text id="4107">%null%</text>
+<text id="4108">%null%</text>
+<text id="4109">%null%</text>
+<text id="4110">戦技「大上段」
+
+頭上に高く剣を構える戦技　
+通常攻撃で、踏み込み斬り下ろし
+強攻撃で連続斬り下ろしに派生する
+</text>
+<text id="4111">%null%</text>
+<text id="4112">%null%</text>
+<text id="4113">%null%</text>
+<text id="4114">%null%</text>
+<text id="4115">%null%</text>
+<text id="4116">%null%</text>
+<text id="4117">%null%</text>
+<text id="4118">%null%</text>
+<text id="4119">%null%</text>
+<text id="4120">戦技「片翼の構え」
+
+静かに右側に構え、攻撃に繋げる戦技
+通常攻撃で、高速の三連撃に
+強攻撃で、跳躍からの突きに派生する
+</text>
+<text id="4121">%null%</text>
+<text id="4122">%null%</text>
+<text id="4123">%null%</text>
+<text id="4124">%null%</text>
+<text id="4125">%null%</text>
+<text id="4126">%null%</text>
+<text id="4127">%null%</text>
+<text id="4128">%null%</text>
+<text id="4129">%null%</text>
+<text id="4130">戦技「瞬雷」
+
+ゴッドウィンに仕えた黄金の騎士たちの戦技
+低い構えから、自らを雷に変じ
+前方に高速移動する
+</text>
+<text id="4131">%null%</text>
+<text id="4132">%null%</text>
+<text id="4133">%null%</text>
+<text id="4134">%null%</text>
+<text id="4135">%null%</text>
+<text id="4136">%null%</text>
+<text id="4137">%null%</text>
+<text id="4138">%null%</text>
+<text id="4139">%null%</text>
+<text id="4140">戦技「火の串刺し」
+
+火の騎士、クウィラインの戦技
+武器に火を纏わせ、低い姿勢で踏み込み
+そのまま一気に、敵を串刺しにする
+強攻撃で、追撃の火を放つ
+</text>
+<text id="4141">%null%</text>
+<text id="4142">%null%</text>
+<text id="4143">%null%</text>
+<text id="4144">%null%</text>
+<text id="4145">%null%</text>
+<text id="4146">%null%</text>
+<text id="4147">%null%</text>
+<text id="4148">%null%</text>
+<text id="4149">%null%</text>
+<text id="4150">戦技「猛獅子斬り」
+
+赤獅子の中でも、特に勇猛な戦士の戦技
+前方に跳躍し、回転しながら武器を叩き付ける
+追加入力で、もう一度武器を叩き付ける
+</text>
+<text id="4151">%null%</text>
+<text id="4152">%null%</text>
+<text id="4153">%null%</text>
+<text id="4154">%null%</text>
+<text id="4155">%null%</text>
+<text id="4156">%null%</text>
+<text id="4157">%null%</text>
+<text id="4158">%null%</text>
+<text id="4159">%null%</text>
+<text id="4160">戦技「神獣霜踏み」
+
+神獣獅子舞の振るう怒りの戦技
+足を振り上げ、大地に強く踏みしめ
+前方に、激しい霜の地走りを起こす
+タメ使用で強化され、地走りの範囲が広がる
+</text>
+<text id="4161">%null%</text>
+<text id="4162">%null%</text>
+<text id="4163">%null%</text>
+<text id="4164">%null%</text>
+<text id="4165">%null%</text>
+<text id="4166">%null%</text>
+<text id="4167">%null%</text>
+<text id="4168">%null%</text>
+<text id="4169">%null%</text>
+<text id="4170">戦技「火の槍」
+
+火の騎士の筆頭、クードの戦技
+武器を突くように構え、前方に火の槍を放つ
+タメ使用で強化され、槍の飛距離も伸びる
+</text>
+<text id="4171">%null%</text>
+<text id="4172">%null%</text>
+<text id="4173">%null%</text>
+<text id="4174">%null%</text>
+<text id="4175">%null%</text>
+<text id="4176">%null%</text>
+<text id="4177">%null%</text>
+<text id="4178">%null%</text>
+<text id="4179">%null%</text>
+<text id="4180">戦技「ロイヤル・カーリア」
+
+カーリアの王族に伝わる戦技
+剣身を魔力の大剣と化し、振り下ろす
+追加入力で、水平に広範囲を薙ぎ払う
+どちらの攻撃も、タメ使用で強化される
+</text>
+<text id="4181">%null%</text>
+<text id="4182">%null%</text>
+<text id="4183">%null%</text>
+<text id="4184">%null%</text>
+<text id="4185">%null%</text>
+<text id="4186">%null%</text>
+<text id="4187">%null%</text>
+<text id="4188">%null%</text>
+<text id="4189">%null%</text>
+<text id="4190">戦技「悲痛の叫び」
+
+蹂躙された者たちの戦技
+叫び声をあげ、周囲の敵を怯ませると同時に
+深い恨みを思い出し、自らの攻撃力を高める
+自身のＨＰが減っているほど、効果が高い
+</text>
+<text id="4191">%null%</text>
+<text id="4192">%null%</text>
+<text id="4193">%null%</text>
+<text id="4194">%null%</text>
+<text id="4195">%null%</text>
+<text id="4196">%null%</text>
+<text id="4197">%null%</text>
+<text id="4198">%null%</text>
+<text id="4199">%null%</text>
+<text id="4200">戦技「盾攻撃」
+
+盾による攻撃を行う戦技
+追加入力で、三度まで追撃に繋げられる
+</text>
+<text id="4201">%null%</text>
+<text id="4202">%null%</text>
+<text id="4203">%null%</text>
+<text id="4204">%null%</text>
+<text id="4205">%null%</text>
+<text id="4206">%null%</text>
+<text id="4207">%null%</text>
+<text id="4208">%null%</text>
+<text id="4209">%null%</text>
+<text id="4210">戦技「エーゴンの竜狩り」
+
+竜の戦士、エーゴンの戦技
+大弓を半身に構え、咆哮と共に捻り射ることで
+その攻撃力を大きく高める
+</text>
+<text id="4211">%null%</text>
+<text id="4212">%null%</text>
+<text id="4213">%null%</text>
+<text id="4214">%null%</text>
+<text id="4215">%null%</text>
+<text id="4216">%null%</text>
+<text id="4217">%null%</text>
+<text id="4218">%null%</text>
+<text id="4219">%null%</text>
+<text id="4220">戦技「霊炎呼び」
+
+突き出した武器に、霊炎を呼ぶ戦技
+通常攻撃で、霊炎を地に這わせて放ち
+強攻撃で、それを大きく爆発させる
+</text>
+<text id="5000">専用戦技「竜傷斬り」
+
+巨大な竜を狩るための戦技
+さざれ石の逆棘にオーラを纏わせ
+跳躍して、その頂点で叩き斬る
+またタメ使用で、そのオーラを放つ
+</text>
+<text id="5001">%null%</text>
+<text id="5002">%null%</text>
+<text id="5003">%null%</text>
+<text id="5004">%null%</text>
+<text id="5005">%null%</text>
+<text id="5006">%null%</text>
+<text id="5007">%null%</text>
+<text id="5008">%null%</text>
+<text id="5009">%null%</text>
+<text id="5010">専用戦技「針の貫き」
+
+針の騎士、レダの戦技
+十本の黄金の針を生じ、対象を一時に刺し貫く
+また、刺し貫いた対象のあらゆる状態異常と
+特殊な効果を消し去る
+</text>
+<text id="5011">%null%</text>
+<text id="5012">%null%</text>
+<text id="5013">%null%</text>
+<text id="5014">%null%</text>
+<text id="5015">%null%</text>
+<text id="5016">%null%</text>
+<text id="5017">%null%</text>
+<text id="5018">%null%</text>
+<text id="5019">%null%</text>
+<text id="5020">専用戦技「光」
+
+刀身に刻まれた光を解放する戦技
+剣を中空に掲げ、眩い光を生じ
+幾本もの光線で周囲を薙ぎ払う
+また一時的に、自らの聖攻撃力が高まる
+</text>
+<text id="5021">%null%</text>
+<text id="5022">%null%</text>
+<text id="5023">%null%</text>
+<text id="5024">%null%</text>
+<text id="5025">%null%</text>
+<text id="5026">%null%</text>
+<text id="5027">%null%</text>
+<text id="5028">%null%</text>
+<text id="5029">%null%</text>
+<text id="5030">専用戦技「闇」
+
+剣を中空に掲げ、闇で周囲を薙ぎ払う戦技
+聖属性のダメージを与えると共に
+一時的に、聖カット率を低下させる
+</text>
+<text id="5031">%null%</text>
+<text id="5032">%null%</text>
+<text id="5033">%null%</text>
+<text id="5034">%null%</text>
+<text id="5035">%null%</text>
+<text id="5036">%null%</text>
+<text id="5037">%null%</text>
+<text id="5038">%null%</text>
+<text id="5039">%null%</text>
+<text id="5040">専用戦技「オンジの連星」
+
+亜人の剣聖の名を冠した戦技
+連なる輝石に魔力を込めた斬撃
+追加入力で、二度まで追撃に繋げられ
+追撃する度に強化される
+</text>
+<text id="5041">%null%</text>
+<text id="5042">%null%</text>
+<text id="5043">%null%</text>
+<text id="5044">%null%</text>
+<text id="5045">%null%</text>
+<text id="5046">%null%</text>
+<text id="5047">%null%</text>
+<text id="5048">%null%</text>
+<text id="5049">%null%</text>
+<text id="5050">戦技「毒花は二度刺す」
+
+足元に朱い腐敗の棘を生じ、敵を刺す戦技
+既に毒あるいは腐敗状態の敵に追撃が成功すれば
+一気に大ダメージを与える
+</text>
+<text id="5080">専用戦技「回転ギロチン」
+
+武器の両端を持ち、体を反り返らせながら
+泥濘の刃で頭上から叩き斬る戦技
+追加入力で、スタミナの続く限り追撃し
+強攻撃で、跳躍からの回転攻撃に繋げられる
+</text>
+<text id="5081">%null%</text>
+<text id="5082">%null%</text>
+<text id="5083">%null%</text>
+<text id="5084">%null%</text>
+<text id="5085">%null%</text>
+<text id="5086">%null%</text>
+<text id="5087">%null%</text>
+<text id="5088">%null%</text>
+<text id="5089">%null%</text>
+<text id="5090">専用戦技「終わりなき舞い」
+
+激しく舞い踊り、連続で斬撃を繰り出す戦技
+長押ししている間は、スタミナの続く限り
+その舞踏が終わることはない
+</text>
+<text id="5091">%null%</text>
+<text id="5092">%null%</text>
+<text id="5093">%null%</text>
+<text id="5094">%null%</text>
+<text id="5095">%null%</text>
+<text id="5096">%null%</text>
+<text id="5097">%null%</text>
+<text id="5098">%null%</text>
+<text id="5099">%null%</text>
+<text id="5100">専用戦技「復讐の刃」
+
+敵の懐に走り込み、二刀を左右に斬り開く戦技
+長押しにより、走り込みの距離は長くなる
+また、強攻撃で滅多斬りに繋げられる
+</text>
+<text id="5101">%null%</text>
+<text id="5102">%null%</text>
+<text id="5103">%null%</text>
+<text id="5104">%null%</text>
+<text id="5105">%null%</text>
+<text id="5106">%null%</text>
+<text id="5107">%null%</text>
+<text id="5108">%null%</text>
+<text id="5109">%null%</text>
+<text id="5110">専用戦技「永眠の霧」
+
+前方広範囲に、昏紫の霧を生じる戦技
+その霧には、永眠の状態異常効果がある
+</text>
+<text id="5111">%null%</text>
+<text id="5112">%null%</text>
+<text id="5113">%null%</text>
+<text id="5114">%null%</text>
+<text id="5115">%null%</text>
+<text id="5116">%null%</text>
+<text id="5117">%null%</text>
+<text id="5118">%null%</text>
+<text id="5119">%null%</text>
+<text id="5120">専用戦技「王朝鎌技」
+
+華麗に攻撃を回避し、敵と距離を取る戦技
+回避の方向は左右後ろに制御できる
+強攻撃で、前進からの斬り上げに繋げられ
+更なる強攻撃で、再び華麗に斬り下がる
+</text>
+<text id="5121">%null%</text>
+<text id="5122">%null%</text>
+<text id="5123">%null%</text>
+<text id="5124">%null%</text>
+<text id="5125">%null%</text>
+<text id="5126">%null%</text>
+<text id="5127">%null%</text>
+<text id="5128">%null%</text>
+<text id="5129">%null%</text>
+<text id="5130">専用戦技「瞬雷・双斧」
+
+低い構えから、自らを雷に変じ
+前方に高速移動する戦技
+強攻撃で、雷を纏った回転斬りに繋げられる
+</text>
+<text id="5131">%null%</text>
+<text id="5132">%null%</text>
+<text id="5133">%null%</text>
+<text id="5134">%null%</text>
+<text id="5135">%null%</text>
+<text id="5136">%null%</text>
+<text id="5137">%null%</text>
+<text id="5138">%null%</text>
+<text id="5139">%null%</text>
+<text id="5140">専用戦技「瞬雷・長柄斧」
+
+低い構えから、自らを雷に変じ
+前方に高速移動する戦技
+強攻撃で、雷を纏った跳躍斬りに繋げられる
+</text>
+<text id="5141">%null%</text>
+<text id="5142">%null%</text>
+<text id="5143">%null%</text>
+<text id="5144">%null%</text>
+<text id="5145">%null%</text>
+<text id="5146">%null%</text>
+<text id="5147">%null%</text>
+<text id="5148">%null%</text>
+<text id="5149">%null%</text>
+<text id="5150">専用戦技「約束の王」
+
+二本の大剣にミケラの光を纏い
+光の柱を伴う斬撃を繰り出す戦技
+追加入力で、二度まで連撃に繋げられる
+</text>
+<text id="5151">%null%</text>
+<text id="5152">%null%</text>
+<text id="5153">%null%</text>
+<text id="5154">%null%</text>
+<text id="5155">%null%</text>
+<text id="5156">%null%</text>
+<text id="5157">%null%</text>
+<text id="5158">%null%</text>
+<text id="5159">%null%</text>
+<text id="5160">専用戦技「影輪頭突き」
+
+影輪草の大花を叩きつけ
+衝撃波と共に敵を圧し潰す戦技
+追加入力で、二度まで追撃に繋げられる
+</text>
+<text id="5161">%null%</text>
+<text id="5162">%null%</text>
+<text id="5163">%null%</text>
+<text id="5164">%null%</text>
+<text id="5165">%null%</text>
+<text id="5166">%null%</text>
+<text id="5167">%null%</text>
+<text id="5168">%null%</text>
+<text id="5169">%null%</text>
+<text id="5170">専用戦技「月と火の構え」
+
+二本の剣に魔力を込めて構え、魔術に繋げる戦技
+通常攻撃で、連続して輝石の光波を放ち
+また強攻撃で、回転しながら周囲を火で薙ぎ払う
+光波は、追加入力で二度まで追撃に繋げられる
+</text>
+<text id="5171">%null%</text>
+<text id="5172">%null%</text>
+<text id="5173">%null%</text>
+<text id="5174">%null%</text>
+<text id="5175">%null%</text>
+<text id="5176">%null%</text>
+<text id="5177">%null%</text>
+<text id="5178">%null%</text>
+<text id="5179">%null%</text>
+<text id="5180">専用戦技「デボニアの渦」
+
+坩堝の渦の力で、大槌全体を激しく回転させ
+そのまま、衝撃と共に大地に叩き付ける戦技
+タメ使用で強化される
+</text>
+<text id="5181">%null%</text>
+<text id="5182">%null%</text>
+<text id="5183">%null%</text>
+<text id="5184">%null%</text>
+<text id="5185">%null%</text>
+<text id="5186">%null%</text>
+<text id="5187">%null%</text>
+<text id="5188">%null%</text>
+<text id="5189">%null%</text>
+<text id="5190">専用戦技「メスメルの強襲」
+
+刃に火を纏った激しい連撃の戦技
+追加入力で、二度まで追撃に繋げられ
+その最後に、周囲に無数の槍を生成する
+</text>
+<text id="5210">専用戦技「永遠に眠れ」
+
+永眠の毒針で、敵を深く刺し貫く戦技
+既に睡眠あるいは永眠状態の敵に追撃が成功すれば
+一気に大ダメージを与える
+</text>
+<text id="5211">%null%</text>
+<text id="5212">%null%</text>
+<text id="5213">%null%</text>
+<text id="5214">%null%</text>
+<text id="5215">%null%</text>
+<text id="5216">%null%</text>
+<text id="5217">%null%</text>
+<text id="5218">%null%</text>
+<text id="5219">%null%</text>
+<text id="5220">専用戦技「黄金の磔」
+
+宙にふわりと飛び、頭上から突き下ろす戦技
+敵を貫いた時は、逆棘を開き内から酷く傷付け
+そうでない時は、追加入力で周囲に逆棘を展開する
+その敵を貫く様は、どこか黄金の律に似ている
+</text>
+<text id="5221">%null%</text>
+<text id="5222">%null%</text>
+<text id="5223">%null%</text>
+<text id="5224">%null%</text>
+<text id="5225">%null%</text>
+<text id="5226">%null%</text>
+<text id="5227">%null%</text>
+<text id="5228">%null%</text>
+<text id="5229">%null%</text>
+<text id="5230">専用戦技「ムーアの突撃」
+
+両手で盾を構え、ガードしたまま突撃し
+最後に、緑青の魔力を込めて押し出す戦技
+周囲の敵を吹き飛ばすが、酷く傷付けることはない
+長押しで前進距離を伸ばすことができる
+</text>
+<text id="5231">%null%</text>
+<text id="5232">%null%</text>
+<text id="5233">%null%</text>
+<text id="5234">%null%</text>
+<text id="5235">%null%</text>
+<text id="5236">%null%</text>
+<text id="5237">%null%</text>
+<text id="5238">%null%</text>
+<text id="5239">%null%</text>
+<text id="5240">専用戦技「白光の突撃」
+
+古隕鉄の裂け目に白い光を生じ
+その力で突撃し、敵を刺し貫く戦技
+追加入力で、その光を爆発させる
+</text>
+<text id="5241">%null%</text>
+<text id="5242">%null%</text>
+<text id="5243">%null%</text>
+<text id="5244">%null%</text>
+<text id="5245">%null%</text>
+<text id="5246">%null%</text>
+<text id="5247">%null%</text>
+<text id="5248">%null%</text>
+<text id="5249">%null%</text>
+<text id="5250">専用戦技「怨霊斬り」
+
+体を回転させて、敵を斬りつけながら
+追いすがる怨霊を呼ぶ戦技
+追加入力で、追撃に繋げられる
+</text>
+<text id="5251">%null%</text>
+<text id="5252">%null%</text>
+<text id="5253">%null%</text>
+<text id="5254">%null%</text>
+<text id="5255">%null%</text>
+<text id="5256">%null%</text>
+<text id="5257">%null%</text>
+<text id="5258">%null%</text>
+<text id="5259">%null%</text>
+<text id="5260">専用戦技「夜闇の斬撃」
+
+水平に構えた剣に夜の闇を纏い
+連続で、実体のない斬撃を繰り出す戦技
+ガードすることはできず、タメ使用で強化される
+</text>
+<text id="5261">%null%</text>
+<text id="5262">%null%</text>
+<text id="5263">%null%</text>
+<text id="5264">%null%</text>
+<text id="5265">%null%</text>
+<text id="5266">%null%</text>
+<text id="5267">%null%</text>
+<text id="5268">%null%</text>
+<text id="5269">%null%</text>
+<text id="5270">専用戦技「エウポリアの渦」
+
+渦の力で武器全体を激しく回転させ
+そのまま、前方を連続で斬りつける戦技
+輝きを取り戻しているほど、威力が高まる
+戦技の使用により、その輝きは失われる
+</text>
+<text id="5271">%null%</text>
+<text id="5272">%null%</text>
+<text id="5273">%null%</text>
+<text id="5274">%null%</text>
+<text id="5275">%null%</text>
+<text id="5276">%null%</text>
+<text id="5277">%null%</text>
+<text id="5278">%null%</text>
+<text id="5279">%null%</text>
+<text id="5280">専用戦技「鍛冶術の槍」
+
+赤熱した鍛冶床を地面に叩きつける戦技
+引き抜きと共に、地面から無数の槍を生成する
+その槍はすぐに消えてしまう
+</text>
+<text id="5281">%null%</text>
+<text id="5282">%null%</text>
+<text id="5283">%null%</text>
+<text id="5284">%null%</text>
+<text id="5285">%null%</text>
+<text id="5286">%null%</text>
+<text id="5287">%null%</text>
+<text id="5288">%null%</text>
+<text id="5289">%null%</text>
+<text id="5290">専用戦技「怨霊斬り」
+
+体を回転させて、敵を斬りつけながら
+追いすがる怨霊を呼ぶ戦技
+追加入力で、追撃に繋げられる
+</text>
+<text id="5291">%null%</text>
+<text id="5292">%null%</text>
+<text id="5293">%null%</text>
+<text id="5294">%null%</text>
+<text id="5295">%null%</text>
+<text id="5296">%null%</text>
+<text id="5297">%null%</text>
+<text id="5298">%null%</text>
+<text id="5299">%null%</text>
+<text id="5300">専用戦技「ロミナの祓い」
+
+蕾の刃に朱い腐敗の蝶を纏わせ
+大きく二度、撫で斬りする戦技
+かつて、それは聖なる祓いであった
+</text>
+<text id="5301">%null%</text>
+<text id="5302">%null%</text>
+<text id="5303">%null%</text>
+<text id="5304">%null%</text>
+<text id="5305">%null%</text>
+<text id="5306">%null%</text>
+<text id="5307">%null%</text>
+<text id="5308">%null%</text>
+<text id="5309">%null%</text>
+<text id="5310">専用戦技「毒の貫手」
+
+指先を前に向けながら差し出し
+敵の身体を、ずぶりと貫く戦技
+大量の猛毒を一気に蓄積する
+</text>
+<text id="5311">%null%</text>
+<text id="5312">%null%</text>
+<text id="5313">%null%</text>
+<text id="5314">%null%</text>
+<text id="5315">%null%</text>
+<text id="5316">%null%</text>
+<text id="5317">%null%</text>
+<text id="5318">%null%</text>
+<text id="5319">%null%</text>
+<text id="5320">専用戦技「発狂の貫手」
+
+指先を前に向けながら差し出し
+敵の身体を、ずぶりと貫く戦技
+大量の発狂を一気に蓄積する
+</text>
+<text id="5321">%null%</text>
+<text id="5322">%null%</text>
+<text id="5323">%null%</text>
+<text id="5324">%null%</text>
+<text id="5325">%null%</text>
+<text id="5326">%null%</text>
+<text id="5327">%null%</text>
+<text id="5328">%null%</text>
+<text id="5329">%null%</text>
+<text id="5330">専用戦技「弱き王の狂い火」
+
+松明を前方に掲げ、狂い火を撒き散らす戦技
+周囲および使用者自身に発狂を蓄積する
+長押している間は、ずっと継続し
+足を止めずに使用できる
+</text>
+<text id="5331">%null%</text>
+<text id="5332">%null%</text>
+<text id="5333">%null%</text>
+<text id="5334">%null%</text>
+<text id="5335">%null%</text>
+<text id="5336">%null%</text>
+<text id="5337">%null%</text>
+<text id="5338">%null%</text>
+<text id="5339">%null%</text>
+<text id="5340">専用戦技「連弩の連射」
+
+連射機構を起動して構える戦技
+その構えから、手前のハンドルを回し
+連続でボルトを撃ち出すことができる
+</text>
+<text id="5341">%null%</text>
+<text id="5342">%null%</text>
+<text id="5343">%null%</text>
+<text id="5344">%null%</text>
+<text id="5345">%null%</text>
+<text id="5346">%null%</text>
+<text id="5347">%null%</text>
+<text id="5348">%null%</text>
+<text id="5349">%null%</text>
+<text id="5350">専用戦技「災いの舞い」
+
+両手に円の刃を持ち
+激しい回転で敵を切り裂く戦技
+追加入力で、鋭い踵落としに繋げられる
+</text>
+<text id="5351">%null%</text>
+<text id="5352">%null%</text>
+<text id="5353">%null%</text>
+<text id="5354">%null%</text>
+<text id="5355">%null%</text>
+<text id="5356">%null%</text>
+<text id="5357">%null%</text>
+<text id="5358">%null%</text>
+<text id="5359">%null%</text>
+<text id="5360">専用戦技「扇射ち」
+
+水平に弓を構える戦技
+八本もの矢を同時につがえ
+扇状に射ることができる
+</text>
+<text id="5361">%null%</text>
+<text id="5362">%null%</text>
+<text id="5363">%null%</text>
+<text id="5364">%null%</text>
+<text id="5365">%null%</text>
+<text id="5366">%null%</text>
+<text id="5367">%null%</text>
+<text id="5368">%null%</text>
+<text id="5369">%null%</text>
+<text id="5370">専用戦技「円盤投擲」
+
+盾を円盤のように投擲する戦技
+投擲された盾は、鍛冶術により
+瞬時に手元に再生成される
+</text>
+<text id="5371">%null%</text>
+<text id="5372">%null%</text>
+<text id="5373">%null%</text>
+<text id="5374">%null%</text>
+<text id="5375">%null%</text>
+<text id="5376">%null%</text>
+<text id="5377">%null%</text>
+<text id="5378">%null%</text>
+<text id="5379">%null%</text>
+<text id="5380">専用戦技「花の竜雷」
+
+対象に古竜の赤い落雷を落とす戦技
+雷属性のダメージを与えると共に
+一時的に、雷カット率を低下させる
+タメ使用で強化される
+</text>
+<text id="5381">%null%</text>
+<text id="5382">%null%</text>
+<text id="5383">%null%</text>
+<text id="5384">%null%</text>
+<text id="5385">%null%</text>
+<text id="5386">%null%</text>
+<text id="5387">%null%</text>
+<text id="5388">%null%</text>
+<text id="5389">%null%</text>
+<text id="5390">専用戦技「叩頭憤怒」
+
+指頭で激しくお辞儀をする戦技
+そのままに憤怒をため爆発させる
+長押しにより、憤怒は大きくなる
+</text>
+<text id="5420">専用戦技「痛打」
+
+特に痛みを与えるための鞭の一撃
+一時的にスタミナ回復速度を低下させる
+そして、痛みは人を従順にする
+</text>
+<text id="5421">%null%</text>
+<text id="5422">%null%</text>
+<text id="5423">%null%</text>
+<text id="5424">%null%</text>
+<text id="5425">%null%</text>
+<text id="5426">%null%</text>
+<text id="5427">%null%</text>
+<text id="5428">%null%</text>
+<text id="5429">%null%</text>
+<text id="5430">専用戦技「孤月斬り」
+
+大剣を鋭く斬り下ろし
+弧状の光波を前方に放つ戦技
+強攻撃で、前進する追撃に繋げられる
+</text>
+<text id="5431">%null%</text>
+<text id="5432">%null%</text>
+<text id="5433">%null%</text>
+<text id="5434">%null%</text>
+<text id="5435">%null%</text>
+<text id="5436">%null%</text>
+<text id="5437">%null%</text>
+<text id="5438">%null%</text>
+<text id="5439">%null%</text>
+<text id="5440">専用戦技「夜の返報」
+
+夜の闇に魔力を込めて放つ戦技
+攻撃をガードした直後に使うことで
+その力を吸収し、威力が増す
+</text>
+<text id="5441">%null%</text>
+<text id="5442">%null%</text>
+<text id="5443">%null%</text>
+<text id="5444">%null%</text>
+<text id="5445">%null%</text>
+<text id="5446">%null%</text>
+<text id="5447">%null%</text>
+<text id="5448">%null%</text>
+<text id="5449">%null%</text>
+<text id="5450">専用戦技「草刈り」
+
+大きく剣を薙ぎ、無造作に人を刈る戦技
+追加入力で、攻撃を継続することができ
+スタミナが尽きるまで続けられる
+</text>
+<text id="5451">%null%</text>
+<text id="5452">%null%</text>
+<text id="5453">%null%</text>
+<text id="5454">%null%</text>
+<text id="5455">%null%</text>
+<text id="5456">%null%</text>
+<text id="5457">%null%</text>
+<text id="5458">%null%</text>
+<text id="5459">%null%</text>
+<text id="5460">専用戦技「幸せな目隠し」
+
+瞳を塞ぎながら顔を揺らし、嘆き声と共に
+使用者の姿を一時的に見え難くする戦技
+幸せになりたければ、何も見ないことだ
+</text>
+<text id="5461">%null%</text>
+<text id="5462">%null%</text>
+<text id="5463">%null%</text>
+<text id="5464">%null%</text>
+<text id="5465">%null%</text>
+<text id="5466">%null%</text>
+<text id="5467">%null%</text>
+<text id="5468">%null%</text>
+<text id="5469">%null%</text>
+<text id="5470">専用戦技「イオリの責問」
+
+大杖を突きつけるように掲げ
+逆棘の似姿たる黄金の弧を連続で放つ戦技
+長押しにより、暫くの間放ち続ける
+</text>
+<text id="5471">%null%</text>
+<text id="5472">%null%</text>
+<text id="5473">%null%</text>
+<text id="5474">%null%</text>
+<text id="5475">%null%</text>
+<text id="5476">%null%</text>
+<text id="5477">%null%</text>
+<text id="5478">%null%</text>
+<text id="5479">%null%</text>
+<text id="5480">専用戦技「咆哮バッシュ」
+
+黄金獅子の咆哮と共に
+ガードしたままの盾を叩き付ける戦技
+敵を押し出し、よろめかせる範囲が広い
+</text>
+<text id="5481">%null%</text>
+<text id="5482">%null%</text>
+<text id="5483">%null%</text>
+<text id="5484">%null%</text>
+<text id="5485">%null%</text>
+<text id="5486">%null%</text>
+<text id="5487">%null%</text>
+<text id="5488">%null%</text>
+<text id="5489">%null%</text>
+<text id="5490">専用戦技「猛毒散布」
+
+調香瓶を頭上で大きく振り回し
+広範囲に猛毒の香粉を散布する戦技
+猛毒は美しく舞い、静かに降り注ぐ
+</text>
+<text id="5491">%null%</text>
+<text id="5492">%null%</text>
+<text id="5493">%null%</text>
+<text id="5494">%null%</text>
+<text id="5495">%null%</text>
+<text id="5496">%null%</text>
+<text id="5497">%null%</text>
+<text id="5498">%null%</text>
+<text id="5499">%null%</text>
+<text id="5500">専用戦技「蛇よ燃えろ」
+
+蛇の内にある火を燃え上がらせ
+一時的に、炎攻撃力を高める戦技
+その状態で、強攻撃などで地面を叩いたとき
+衝撃により爆発が発生する
+</text>
+<text id="5501">%null%</text>
+<text id="5502">%null%</text>
+<text id="5503">%null%</text>
+<text id="5504">%null%</text>
+<text id="5505">%null%</text>
+<text id="5506">%null%</text>
+<text id="5507">%null%</text>
+<text id="5508">%null%</text>
+<text id="5509">%null%</text>
+<text id="5510">専用戦技「散弾投擲・爪」
+
+鍛冶術により、両手に爪を複製し
+多数を同時に投擲する戦技
+追加入力で、もう一度投擲する
+</text>
+<text id="5511">%null%</text>
+<text id="5512">%null%</text>
+<text id="5513">%null%</text>
+<text id="5514">%null%</text>
+<text id="5515">%null%</text>
+<text id="5516">%null%</text>
+<text id="5517">%null%</text>
+<text id="5518">%null%</text>
+<text id="5519">%null%</text>
+<text id="5520">専用戦技「刃研ぎ」
+
+刃を撫でるように研ぐことで
+切れ味を高め、ＨＰの回復量を増す戦技
+大壺師たちは、生業の道具を大事にする
+</text>
+<text id="5521">%null%</text>
+<text id="5522">%null%</text>
+<text id="5523">%null%</text>
+<text id="5524">%null%</text>
+<text id="5525">%null%</text>
+<text id="5526">%null%</text>
+<text id="5527">%null%</text>
+<text id="5528">%null%</text>
+<text id="5529">%null%</text>
+<text id="5530">専用戦技「角降ろし」
+
+刀身に混じり角を降ろす戦技
+そのまま武器を地面に刺し
+突き上げる角の刺を生成する
+</text>
+<text id="5531">%null%</text>
+<text id="5532">%null%</text>
+<text id="5533">%null%</text>
+<text id="5534">%null%</text>
+<text id="5535">%null%</text>
+<text id="5536">%null%</text>
+<text id="5537">%null%</text>
+<text id="5538">%null%</text>
+<text id="5539">%null%</text>
+<text id="5540">専用戦技「角降ろし・嵐」
+
+刀身に混じり角を降ろす戦技
+その角に嵐を呼び、敵を薙ぎ払う
+追加入力で、二度まで追撃に繋げられる
+</text>
+<text id="5541">%null%</text>
+<text id="5542">%null%</text>
+<text id="5543">%null%</text>
+<text id="5544">%null%</text>
+<text id="5545">%null%</text>
+<text id="5546">%null%</text>
+<text id="5547">%null%</text>
+<text id="5548">%null%</text>
+<text id="5549">%null%</text>
+<text id="5550">専用戦技「巨剣陣」
+
+トロルの魔術騎士たちの戦技
+巨大な魔力の輝剣で、円陣を展開する
+輝剣は、自動的に近い敵に向かい飛ぶ
+強攻撃で、大きく踏み込む突きに繋げられる
+</text>
+<text id="5551">%null%</text>
+<text id="5552">%null%</text>
+<text id="5553">%null%</text>
+<text id="5554">%null%</text>
+<text id="5555">%null%</text>
+<text id="5556">%null%</text>
+<text id="5557">%null%</text>
+<text id="5558">%null%</text>
+<text id="5559">%null%</text>
+<text id="5560">専用戦技「血鬼の血授」
+
+聖槍を掲げ、真実の母の身体を刺す戦技
+対象の周囲に血炎の爆発を生じる
+追加入力で、三度まで連続で使用できる
+</text>
+<text id="5561">%null%</text>
+<text id="5562">%null%</text>
+<text id="5563">%null%</text>
+<text id="5564">%null%</text>
+<text id="5565">%null%</text>
+<text id="5566">%null%</text>
+<text id="5567">%null%</text>
+<text id="5568">%null%</text>
+<text id="5569">%null%</text>
+<text id="5570">専用戦技「竜姿の炎」
+
+竜姿の口から炎を吹かせる戦技
+左右に揺れながら、前方を焼き払う
+その炎は、少しの間、地面を燃やし続ける
+</text>
+<text id="5571">%null%</text>
+<text id="5572">%null%</text>
+<text id="5573">%null%</text>
+<text id="5574">%null%</text>
+<text id="5575">%null%</text>
+<text id="5576">%null%</text>
+<text id="5577">%null%</text>
+<text id="5578">%null%</text>
+<text id="5579">%null%</text>
+<text id="5580">専用戦技「光速斬」
+
+自ら光となって跳び、光速で斬り下ろす戦技
+その攻撃には、連続で光の追撃が発生する
+タメ使用で強化され、追撃数が増える
+</text>
+<text id="5600">専用戦技「怨霊撃ち」
+
+矢に怨霊を呼び、それを連続で射る戦技
+怨霊の矢は、敵に追いすがるように飛ぶ
+</text>
+</entries>
+</fmg>

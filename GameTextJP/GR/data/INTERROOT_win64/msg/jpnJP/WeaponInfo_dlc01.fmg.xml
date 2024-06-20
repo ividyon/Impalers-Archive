@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<filename>WeaponInfo_dlc01.fmg</filename>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="4530000">ミケラ＝ラダーンの大曲剣</text>
+<text id="4540000">騎士トロルの剣_アーツが巨剣陣</text>
+<text id="4550000">光のミケラ＝ラダーンの大曲剣</text>
+<text id="50540000">泥濘を塗りつけた獣骨の羽矢</text>
+<text id="50550000">泥濘を塗りつけた獣骨の矢</text>
+<text id="52520000">泥濘を塗りつけた獣骨のボルト</text>
+</entries>
+</fmg>

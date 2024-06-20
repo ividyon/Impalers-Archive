@@ -1,0 +1,543 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<filename>AccessoryCaption_dlc01.fmg</filename>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="2220">A talisman depicting a set of perfume bottles.
+Raises potency of arts employing perfume.
+
+There are gardens known only to the perfumers. Whether hidden on the fringes of the highlands, or obscured by shadows inside caves, the flowers blossom in secret, waiting to impart their scent.</text>
+<text id="7000">A medallion with crimson amber inlaid.
+Boosts maximum HP by the utmost.
+
+The Erdtree's old sap becomes amber, treasured as the most precious of jewels in the age of Godfrey, the first Elden Lord.
+
+These medallions, of the largest variety, were conferred to Godwyn's inner circle of distinguished golden knights. </text>
+<text id="7001">%null%</text>
+<text id="7002">%null%</text>
+<text id="7003">%null%</text>
+<text id="7004">%null%</text>
+<text id="7005">%null%</text>
+<text id="7006">%null%</text>
+<text id="7007">%null%</text>
+<text id="7008">%null%</text>
+<text id="7009">%null%</text>
+<text id="7010">A medallion with cerulean amber inlaid.
+Boosts maximum FP by the utmost.
+
+The Erdtree's old sap becomes amber, treasured as the most precious of jewels in the age of Godfrey, the first Elden Lord.
+
+These medallions, of the largest variety, were conferred to Godwyn's inner circle of distinguished golden knights.</text>
+<text id="7011">%null%</text>
+<text id="7012">%null%</text>
+<text id="7013">%null%</text>
+<text id="7014">%null%</text>
+<text id="7015">%null%</text>
+<text id="7016">%null%</text>
+<text id="7017">%null%</text>
+<text id="7018">%null%</text>
+<text id="7019">%null%</text>
+<text id="7020">A medallion with viridian amber inlaid.
+Boosts maximum stamina by the utmost.
+
+The Erdtree's old sap becomes amber, treasured as the most precious of jewels in the age of Godfrey, the first Elden Lord.
+
+These medallions, of the largest variety, were conferred to Godwyn's inner circle of distinguished golden knights. </text>
+<text id="7021">%null%</text>
+<text id="7022">%null%</text>
+<text id="7023">%null%</text>
+<text id="7024">%null%</text>
+<text id="7025">%null%</text>
+<text id="7026">%null%</text>
+<text id="7027">%null%</text>
+<text id="7028">%null%</text>
+<text id="7029">%null%</text>
+<text id="7030">A talisman in the shape of a two-headed green turtle.
+Greatly raises stamina recovery speed.
+
+Turtles are known as a nutritious ingredient, symbolic of inexhaustible power.
+
+Two-headed turtles are a favorite subject in the land of the tower, due to the spiral shape of their intertwined necks.</text>
+<text id="7031">%null%</text>
+<text id="7032">%null%</text>
+<text id="7033">%null%</text>
+<text id="7034">%null%</text>
+<text id="7035">%null%</text>
+<text id="7036">%null%</text>
+<text id="7037">%null%</text>
+<text id="7038">%null%</text>
+<text id="7039">%null%</text>
+<text id="7040">Ceremonial accoutrement worn by hornsent.
+Vastly raises robustness.
+(Robustness governs resistance to blood loss and frost.)
+
+Horns are sublime artifacts to hornsent, and their presence confirms the belief that they are a chosen people.
+
+Only the repeated sprouting of fresh horns can create a tangled horn, which is viewed as an irrefutable symbol of primacy.</text>
+<text id="7041">%null%</text>
+<text id="7042">%null%</text>
+<text id="7043">%null%</text>
+<text id="7044">%null%</text>
+<text id="7045">%null%</text>
+<text id="7046">%null%</text>
+<text id="7047">%null%</text>
+<text id="7048">%null%</text>
+<text id="7049">%null%</text>
+<text id="7050">Ceremonial accoutrement worn by hornsent.
+Vastly raises immunity.
+(Immunity governs resistance to poison and rot.)
+
+Horns are sublime artifacts to hornsent, and their presence confirms the belief that they are a chosen people.
+
+Only the repeated sprouting of fresh horns can create a tangled horn, which is viewed as an irrefutable symbol of primacy.</text>
+<text id="7051">%null%</text>
+<text id="7052">%null%</text>
+<text id="7053">%null%</text>
+<text id="7054">%null%</text>
+<text id="7055">%null%</text>
+<text id="7056">%null%</text>
+<text id="7057">%null%</text>
+<text id="7058">%null%</text>
+<text id="7059">%null%</text>
+<text id="7060">Ceremonial accoutrement worn by hornsent.
+Vastly raises focus.
+(Focus governs resistance to sleep and madness.)
+
+Horns are sublime artifacts to hornsent, and their presence confirms the belief that they are a chosen people.
+
+Only the repeated sprouting of fresh horns can create a tangled horn, which is viewed as an irrefutable symbol of primacy.</text>
+<text id="7080">Vividly-colored ceremonial accoutrement worn by hornsent.
+
+Vastly raises immunity, robustness, and focus.
+
+Horns are sublime artifacts to hornsent, and their presence confirms the belief that they are a chosen people.
+
+Only the repeated sprouting of fresh horns can create a tangled horn, which is viewed as an irrefutable symbol of primacy.</text>
+<text id="7081">%null%</text>
+<text id="7082">%null%</text>
+<text id="7083">%null%</text>
+<text id="7084">%null%</text>
+<text id="7085">%null%</text>
+<text id="7086">%null%</text>
+<text id="7087">%null%</text>
+<text id="7088">%null%</text>
+<text id="7089">%null%</text>
+<text id="7090">Talisman with a large depiction of a blue ancient dragon.
+Boosts magic damage negation by the utmost.
+
+The ancient dragons, who ruled in the prehistoric era before the Erdtree, would protect their lord as a wall of living rock.
+And so it is that the shape of the dragon has become symbolic of all manner of protections.</text>
+<text id="7091">%null%</text>
+<text id="7092">%null%</text>
+<text id="7093">%null%</text>
+<text id="7094">%null%</text>
+<text id="7095">%null%</text>
+<text id="7096">%null%</text>
+<text id="7097">%null%</text>
+<text id="7098">%null%</text>
+<text id="7099">%null%</text>
+<text id="7100">Talisman with a large depiction of a red ancient dragon.
+Boosts fire damage negation by the utmost.
+
+The ancient dragons, who ruled in the prehistoric era before the Erdtree, would protect their lord as a wall of living rock.
+And so it is that the shape of the dragon has become symbolic of all manner of protections.</text>
+<text id="7101">%null%</text>
+<text id="7102">%null%</text>
+<text id="7103">%null%</text>
+<text id="7104">%null%</text>
+<text id="7105">%null%</text>
+<text id="7106">%null%</text>
+<text id="7107">%null%</text>
+<text id="7108">%null%</text>
+<text id="7109">%null%</text>
+<text id="7110">Talisman with a large depiction of a yellow ancient dragon.
+Boosts lightning damage negation by the utmost.
+
+The ancient dragons, who ruled in the prehistoric era before the Erdtree, would protect their lord as a wall of living rock.
+And so it is that the shape of the dragon has become symbolic of all manner of protections.</text>
+<text id="7111">%null%</text>
+<text id="7112">%null%</text>
+<text id="7113">%null%</text>
+<text id="7114">%null%</text>
+<text id="7115">%null%</text>
+<text id="7116">%null%</text>
+<text id="7117">%null%</text>
+<text id="7118">%null%</text>
+<text id="7119">%null%</text>
+<text id="7120">A braid of golden hair, cut loose.
+Queen Marika's offering to the Grandmother.
+
+Boosts holy damage negation by the utmost.
+
+What was her prayer? Her wish, her confession?
+There is no one left to answer, and Marika never returned home again.</text>
+<text id="7121">%null%</text>
+<text id="7122">%null%</text>
+<text id="7123">%null%</text>
+<text id="7124">%null%</text>
+<text id="7125">%null%</text>
+<text id="7126">%null%</text>
+<text id="7127">%null%</text>
+<text id="7128">%null%</text>
+<text id="7129">%null%</text>
+<text id="7130">Talisman with a large depiction of a pearlescent ancient dragon.
+Boosts non-physical damage negation by the utmost.
+
+The ancient dragons, who ruled in the prehistoric era before the Erdtree, would protect their lord as a wall of living rock.
+And so it is that the shape of the dragon has become symbolic of all manner of protections.</text>
+<text id="7131">%null%</text>
+<text id="7132">%null%</text>
+<text id="7133">%null%</text>
+<text id="7134">%null%</text>
+<text id="7135">%null%</text>
+<text id="7136">%null%</text>
+<text id="7137">%null%</text>
+<text id="7138">%null%</text>
+<text id="7139">%null%</text>
+<text id="7140">A crimson-colored talisman patterned after an Erdtree seed.
+Greatly boosts HP restoration from the Flask of Crimson Tears.
+
+The Erdtree seed of this talisman was presumed to be an object of myth. This age-old artifact also depicts the Two Fingers, perhaps harking back to the birth of the Erdtree.</text>
+<text id="7141">%null%</text>
+<text id="7142">%null%</text>
+<text id="7143">%null%</text>
+<text id="7144">%null%</text>
+<text id="7145">%null%</text>
+<text id="7146">%null%</text>
+<text id="7147">%null%</text>
+<text id="7148">%null%</text>
+<text id="7149">%null%</text>
+<text id="7150">A cerulean-colored talisman patterned after an Erdtree seed.
+Greatly boosts FP restoration from the Flask of Cerulean Tears.
+
+The Erdtree seed of this talisman was presumed to be an object of myth. This age-old artifact also depicts the Two Fingers, perhaps harking back to the birth of the Erdtree.</text>
+<text id="8000">Talisman depicting the blessed boon that is a droplet of the blue, luminescent sap of the Erdtree.
+
+Gradually restores FP.
+
+It was once thought that the blessed sap of the Erdtree would drip from its boughs forever—but that age of plenty swiftly came to a close, and with time, the Erdtree became more an object of faith.</text>
+<text id="8001">%null%</text>
+<text id="8002">%null%</text>
+<text id="8003">%null%</text>
+<text id="8004">%null%</text>
+<text id="8005">%null%</text>
+<text id="8006">%null%</text>
+<text id="8007">%null%</text>
+<text id="8008">%null%</text>
+<text id="8009">%null%</text>
+<text id="8010">A talisman fashioned from thin feathers that embody the aspects of various creatures.
+Said to have grown on the human body long ago.
+
+Improves backsteps but increases damage taken at all times.
+
+Hornsent view the Crucible as sacred for the refinement wrought through its evolutionary gifts. Most prominently, their tangled horns.</text>
+<text id="8011">%null%</text>
+<text id="8012">%null%</text>
+<text id="8013">%null%</text>
+<text id="8014">%null%</text>
+<text id="8015">%null%</text>
+<text id="8016">%null%</text>
+<text id="8017">%null%</text>
+<text id="8018">%null%</text>
+<text id="8019">%null%</text>
+<text id="8020">A talisman engraved with the lore of an outer god.
+Raises arcane.
+
+The clan, who lost everything in the great fires, peered upon the corpse of their ancestor, normally an act of sanctity, and saw in its shadow a twisted deity.
+
+The clan had suffered such torment that the horrible thing was taken as an object of worship.</text>
+<text id="8021">%null%</text>
+<text id="8022">%null%</text>
+<text id="8023">%null%</text>
+<text id="8024">%null%</text>
+<text id="8025">%null%</text>
+<text id="8026">%null%</text>
+<text id="8027">%null%</text>
+<text id="8028">%null%</text>
+<text id="8029">%null%</text>
+<text id="8030">Shattered linchpin stone.
+
+Raises potency of kicking and stomping skills.
+
+Linchpin stones are spiritual anchors said to hold the ground in place and quell the fury of earthquakes—when this one shattered, the surrounding town fell into the broken earth. One account claimed that the moon itself had come tumbling down.</text>
+<text id="8031">%null%</text>
+<text id="8032">%null%</text>
+<text id="8033">%null%</text>
+<text id="8034">%null%</text>
+<text id="8035">%null%</text>
+<text id="8036">%null%</text>
+<text id="8037">%null%</text>
+<text id="8038">%null%</text>
+<text id="8039">%null%</text>
+<text id="8040">A talisman depicting a warrior two-handing a sword.
+Enhances attacks with two-handed weapons.
+
+The horned warriors were fitting figureheads for the military might of the tower they kept watch over, their deft attacks slashing through any and all foes.</text>
+<text id="8041">%null%</text>
+<text id="8042">%null%</text>
+<text id="8043">%null%</text>
+<text id="8044">%null%</text>
+<text id="8045">%null%</text>
+<text id="8046">%null%</text>
+<text id="8047">%null%</text>
+<text id="8048">%null%</text>
+<text id="8049">%null%</text>
+<text id="8050">A talisman depicting a raised spear on a backdrop of flames, in remembrance of the lives lost in the sacred crusade led by Messmer.
+
+Raises attack power after defeating an enemy.
+
+The warriors who fought in the crusade set aside both honor and mercy to wantonly impale and scorch those deemed impure.
+
+Those who felt invigorated by each cry of death were the same men who were certain of the sanctity of the campaign. </text>
+<text id="8051">%null%</text>
+<text id="8052">%null%</text>
+<text id="8053">%null%</text>
+<text id="8054">%null%</text>
+<text id="8055">%null%</text>
+<text id="8056">%null%</text>
+<text id="8057">%null%</text>
+<text id="8058">%null%</text>
+<text id="8059">%null%</text>
+<text id="8060">A talisman depicting the exultation of the aging untouchable, whose head resembles a sprig of ripe grapes.
+
+Raises attack power when madness is triggered in the vicinity.
+
+"Gift your madness to our Lord.
+Bless our brethren with grapes.
+Take care that they fully ripen."</text>
+<text id="8061">%null%</text>
+<text id="8062">%null%</text>
+<text id="8063">%null%</text>
+<text id="8064">%null%</text>
+<text id="8065">%null%</text>
+<text id="8066">%null%</text>
+<text id="8067">%null%</text>
+<text id="8068">%null%</text>
+<text id="8069">%null%</text>
+<text id="8070">A talisman composed of fletched and iron arrows.
+
+Increases the effective range of bows and raises attack power of arrows and bolts.</text>
+<text id="8090">Talisman depicting a knight bearing a pearlescent greatshield.
+Boosts all non-physical damage negation while guarding.
+
+The nature and the potential of impurity surpassed the understanding of the knights, and so they were forced to prepare for all threats known or unknown.</text>
+<text id="8091">%null%</text>
+<text id="8092">%null%</text>
+<text id="8093">%null%</text>
+<text id="8094">%null%</text>
+<text id="8095">%null%</text>
+<text id="8096">%null%</text>
+<text id="8097">%null%</text>
+<text id="8098">%null%</text>
+<text id="8099">%null%</text>
+<text id="8100">A quaint bouquet of dried flowers, offered to a small grave.
+
+Raises attack power when a spirit you have summoned dies.
+
+The sorrow that flows from the untimely demise of a loved one is a tenderness shared by all, regardless of birthplace.</text>
+<text id="8101">%null%</text>
+<text id="8102">%null%</text>
+<text id="8103">%null%</text>
+<text id="8104">%null%</text>
+<text id="8105">%null%</text>
+<text id="8106">%null%</text>
+<text id="8107">%null%</text>
+<text id="8108">%null%</text>
+<text id="8109">%null%</text>
+<text id="8110">A talisman depicting an ancient smithing hammer.
+Inscribed with a smithscript.
+
+Enhances weapon-throwing attacks.
+
+In ancient times, smithing was a divine act, and blacksmiths interpreted the script they perceived in the wrinkles of molten steel to imbue weapons with souls.</text>
+<text id="8111">%null%</text>
+<text id="8112">%null%</text>
+<text id="8113">%null%</text>
+<text id="8114">%null%</text>
+<text id="8115">%null%</text>
+<text id="8116">%null%</text>
+<text id="8117">%null%</text>
+<text id="8118">%null%</text>
+<text id="8119">%null%</text>
+<text id="8120">A talisman depicting a soul taken by sickness.
+
+When certain ailments are triggered, this talisman grants resistance to the same ailment.
+
+When the weak were infected with the dreaded fly sickness, they perished well before the metamorphosis could take hold. Oddly, those who cared for the infected and made certain they were given a proper burial were never afflicted themselves.</text>
+<text id="8121">%null%</text>
+<text id="8122">%null%</text>
+<text id="8123">%null%</text>
+<text id="8124">%null%</text>
+<text id="8125">%null%</text>
+<text id="8126">%null%</text>
+<text id="8127">%null%</text>
+<text id="8128">%null%</text>
+<text id="8129">%null%</text>
+<text id="8130">Handicraft depicting a golden crossed-tree.
+One of the items conferred to the Needle Knights.
+
+Enhances attacks executed after rolling or backstepping.
+
+Long ago, the Needle Knights were in service of Miquella, but now they are no more. Save for one.</text>
+<text id="8131">%null%</text>
+<text id="8132">%null%</text>
+<text id="8133">%null%</text>
+<text id="8134">%null%</text>
+<text id="8135">%null%</text>
+<text id="8136">%null%</text>
+<text id="8137">%null%</text>
+<text id="8138">%null%</text>
+<text id="8139">%null%</text>
+<text id="8140">Handicraft depicting a golden crossed-tree.
+One of the items conferred to the Needle Knights.
+
+Enhances dash attacks.
+
+Long ago, the Needle Knights were in service of Miquella, but now they are no more. Save for one.</text>
+<text id="8141">%null%</text>
+<text id="8142">%null%</text>
+<text id="8143">%null%</text>
+<text id="8144">%null%</text>
+<text id="8145">%null%</text>
+<text id="8146">%null%</text>
+<text id="8147">%null%</text>
+<text id="8148">%null%</text>
+<text id="8149">%null%</text>
+<text id="8150">A talisman depicting an archer wielding a longbow.
+Boosts attack power of precision-aimed shots.
+
+The Albinauric archers were in a class of their own, and their deadly long-range specialists struck fear into the hearts of men.</text>
+<text id="8151">%null%</text>
+<text id="8152">%null%</text>
+<text id="8153">%null%</text>
+<text id="8154">%null%</text>
+<text id="8155">%null%</text>
+<text id="8156">%null%</text>
+<text id="8157">%null%</text>
+<text id="8158">%null%</text>
+<text id="8159">%null%</text>
+<text id="8160">A talisman depicting a smiling St. Trina,
+a vision conjured deep within a certain man's heart.
+
+Raises attack power when sleep is triggered in the vicinity.
+
+"Only I am allowed to know. Of your velvety sleep. Its sweetly gentle embrace. So please, smile—for me, and only me."</text>
+<text id="8161">%null%</text>
+<text id="8162">%null%</text>
+<text id="8163">%null%</text>
+<text id="8164">%null%</text>
+<text id="8165">%null%</text>
+<text id="8166">%null%</text>
+<text id="8167">%null%</text>
+<text id="8168">%null%</text>
+<text id="8169">%null%</text>
+<text id="8170">Talisman depicting the dread dragon of the jagged peak, whose roars cause the peak's molten fury to boil and churn.
+
+Raises potency of magma.
+
+Bayle was the foul dragon's name—a terrible harbinger of destruction whose challenge to the ancient Dragonlord ended in grievous mutual injury.</text>
+<text id="8171">%null%</text>
+<text id="8172">%null%</text>
+<text id="8173">%null%</text>
+<text id="8174">%null%</text>
+<text id="8175">%null%</text>
+<text id="8176">%null%</text>
+<text id="8177">%null%</text>
+<text id="8178">%null%</text>
+<text id="8179">%null%</text>
+<text id="8180">A charm depicting the crazed, cavorting dance of the divine beast conducted at the tower festival.
+
+Raises potency of storms.
+
+Divine beasts are messengers of the heavens, and their rage mirrors the tumult of the skies, of which storms are the pinnacle.</text>
+<text id="8181">%null%</text>
+<text id="8182">%null%</text>
+<text id="8183">%null%</text>
+<text id="8184">%null%</text>
+<text id="8185">%null%</text>
+<text id="8186">%null%</text>
+<text id="8187">%null%</text>
+<text id="8188">%null%</text>
+<text id="8189">%null%</text>
+<text id="8190">A talisman depicting a wizened hand gently gripping a glintstone.
+
+Shortens casting speed for sorcery and incantations by the utmost, but increases damage taken.
+
+Count Ymir was known for his recitations.
+"One need only envision the romance of the stars above with adoration for stardust in one's heart to become a great sorcerer. Do so, and you will know love."</text>
+<text id="8191">%null%</text>
+<text id="8192">%null%</text>
+<text id="8193">%null%</text>
+<text id="8194">%null%</text>
+<text id="8195">%null%</text>
+<text id="8196">%null%</text>
+<text id="8197">%null%</text>
+<text id="8198">%null%</text>
+<text id="8199">%null%</text>
+<text id="8200">A talisman depicting Godfrey, first Elden lord, receiving the precious sap.
+
+Increases poise after using a flask of tears.
+
+The Lord accepted the sap stoically, without any sign of wavering. No wonder Lord of the Erdtree casts a long shadow over the lands.</text>
+<text id="8201">%null%</text>
+<text id="8202">%null%</text>
+<text id="8203">%null%</text>
+<text id="8204">%null%</text>
+<text id="8205">%null%</text>
+<text id="8206">%null%</text>
+<text id="8207">%null%</text>
+<text id="8208">%null%</text>
+<text id="8209">%null%</text>
+<text id="8210">A discus made of verdigris, the corroded metal known for its heft.
+
+Raises defense with higher equipment load.
+
+Great weight makes for great strength. The strength to protect others.</text>
+<text id="8211">%null%</text>
+<text id="8212">%null%</text>
+<text id="8213">%null%</text>
+<text id="8214">%null%</text>
+<text id="8215">%null%</text>
+<text id="8216">%null%</text>
+<text id="8217">%null%</text>
+<text id="8218">%null%</text>
+<text id="8219">%null%</text>
+<text id="8220">Talisman featuring a gallant portrait of Rellana, the Twin Moon Knight.
+
+Enhances attacks executed after maintaining the same stance for a certain length of time.
+
+Engraved as a reminder of the unparalleled devotion of those who left their homelands to serve Rellana.
+
+"By your leave, we will accompany you wherever your lunar vessel takes you."</text>
+<text id="8221">%null%</text>
+<text id="8222">%null%</text>
+<text id="8223">%null%</text>
+<text id="8224">%null%</text>
+<text id="8225">%null%</text>
+<text id="8226">%null%</text>
+<text id="8227">%null%</text>
+<text id="8228">%null%</text>
+<text id="8229">%null%</text>
+<text id="8230">A thin, blood-stained dagger. No longer fit for use.
+
+Raises attack power after each critical hit.
+
+Hornsent employed this to honorably end the suffering of a compatriot. After claiming numerous lives, the dagger is now broken, but has acquired a spectral aura.</text>
+<text id="8231">%null%</text>
+<text id="8232">%null%</text>
+<text id="8233">%null%</text>
+<text id="8234">%null%</text>
+<text id="8235">%null%</text>
+<text id="8236">%null%</text>
+<text id="8237">%null%</text>
+<text id="8238">%null%</text>
+<text id="8239">%null%</text>
+<text id="8240">A giant mass of intermingling Crucible attributes.
+
+Reduces damage taken from critical hits and head shots and improves the effectiveness of rolling and backstepping, but also increases damage taken at all times.
+
+Rumored to have sprouted upon giants and is known as the "mother of Crucibles" in ancient tower lore.</text>
+</entries>
+</fmg>

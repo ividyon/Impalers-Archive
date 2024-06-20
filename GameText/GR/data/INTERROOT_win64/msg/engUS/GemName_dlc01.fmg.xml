@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<filename>GemName_dlc01.fmg</filename>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="200000">Ash of War: Dryleaf Whirlwind</text>
+<text id="200100">Ash of War: Aspects of the Crucible: Wings</text>
+<text id="400000">Ash of War: Spinning Gravity Thrust</text>
+<text id="401000">Ash of War: Palm Blast</text>
+<text id="402000">Ash of War: Piercing Throw</text>
+<text id="403000">Ash of War: Scattershot Throw</text>
+<text id="404000">Ash of War: Wall of Sparks</text>
+<text id="405000">Ash of War: Rolling Sparks</text>
+<text id="406000">Ash of War: Raging Beast</text>
+<text id="407000">Ash of War: Savage Claws</text>
+<text id="409000">Ash of War: Blind Spot</text>
+<text id="410000">Ash of War: Swift Slash</text>
+<text id="411000">Ash of War: Overhead Stance</text>
+<text id="412000">Ash of War: Wing Stance</text>
+<text id="413000">Ash of War: Blinkbolt</text>
+<text id="414000">Ash of War: Flame Skewer</text>
+<text id="415000">Ash of War: Savage Lion's Claw</text>
+<text id="416000">Ash of War: Divine Beast Frost Stomp</text>
+<text id="417000">Ash of War: Flame Spear</text>
+<text id="418000">Ash of War: Carian Sovereignty</text>
+<text id="419000">Ash of War: Shriek of Sorrow</text>
+<text id="422000">Ash of War: Ghostflame Call</text>
+<text id="505000">Ash of War: The Poison Flower Blooms Twice</text>
+<text id="548000">Ash of War: Igon's Drake Hunt</text>
+<text id="800000">Ash of War: Shield Strike</text>
+</entries>
+</fmg>

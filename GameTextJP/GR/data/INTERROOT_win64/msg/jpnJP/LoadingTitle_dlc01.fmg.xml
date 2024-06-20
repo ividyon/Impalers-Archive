@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<filename>LoadingTitle_dlc01.fmg</filename>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="80">影樹の加護</text>
+<text id="81">霊灰の加護</text>
+<text id="205">初めて入手したアイテム</text>
+<text id="206">最近入手したアイテム</text>
+<text id="207">サイン溜まりの保持</text>
+</entries>
+</fmg>
