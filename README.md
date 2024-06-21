@@ -22,8 +22,8 @@
 </div>
 
 <div align="center">
-<h3>[English texts](https://htmlpreview.github.io/?https://raw.githubusercontent.com/ividyon/Impalers-Archive/main/Master.html)</h3>
-<h3>[Japanese texts](https://htmlpreview.github.io/?https://raw.githubusercontent.com/ividyon/Impalers-Archive/main/MasterJP.html)</h3>
+<h3><a href="https://htmlpreview.github.io/?https://raw.githubusercontent.com/ividyon/Impalers-Archive/main/Master.html">English texts</a></h3>
+<h3><a href="https://htmlpreview.github.io/?https://raw.githubusercontent.com/ividyon/Impalers-Archive/main/MasterJP.html">Japanese texts</a></h3>
 </div>
 
 <!-- ABOUT THE PROJECT -->
