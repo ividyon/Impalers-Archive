@@ -21,6 +21,10 @@
   </p>
 </div>
 
+<div align="center">
+<h3>[English texts](https://htmlpreview.github.io/?https://raw.githubusercontent.com/ividyon/Impalers-Archive/main/Master.html)</h3>
+<h3>[Japanese texts](https://htmlpreview.github.io/?https://raw.githubusercontent.com/ividyon/Impalers-Archive/main/MasterJP.html)</h3>
+</div>
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
@@ -37,7 +41,7 @@ The preview form for the Japanese dump is here: https://htmlpreview.github.io/?h
 
 ### Built With
 
-Twinmoon Archive is a fairly low effort copy of [Carian Archive](https://github.com/AsteriskAmpersand/Carian-Archive) by AsteriskAmpersand. Almost everything was made by them.
+Impaler's Archive is a fairly low effort copy of [Carian Archive](https://github.com/AsteriskAmpersand/Carian-Archive) by AsteriskAmpersand. Almost everything was made by them.
 Files were unpacked through UXM Selective Unpack and then converted using WitchyBND.
 
 * [WitchyBND](https://github.com/ividyon/WitchyBND)
